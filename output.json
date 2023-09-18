@@ -3998,7 +3998,7 @@
         "Background": "",
         "Affiliation": "York University",
         "Notes": "",
-        "images": "#home.png"
+        "images": "_home.png"
     },
     {
         "name": "Arctic LiDAR",
@@ -5745,7 +5745,7 @@
         "Background": "",
         "Affiliation": "",
         "Notes": "",
-        "images": "#MeToo Anti-Network.png"
+        "images": "MeToo Anti-Network.png"
     },
     {
         "name": "Diversity traces: an interactive lens on multi-racial families in America",

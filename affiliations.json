@@ -1,0 +1,495 @@
+[
+    {
+        "name": "University of California, Santa Barbara",
+        "value": 19
+    },
+    
+    {
+        "name": "Northeastern University",
+        "value": 13
+    },
+    {
+        "name": "University of Calgary",
+        "value": 10
+    },
+    {
+        "name": "University of Applied Sciences Potsdam",
+        "value": 8
+    },
+    {
+        "name": "Purdue University",
+        "value": 7
+    },
+    {
+        "name": "Indiana University",
+        "value": 6
+    },
+    {
+        "name": "OCAD University",
+        "value": 6
+    },
+    {
+        "name": "CSIRO",
+        "value": 6
+    },
+    {
+        "name": "Massachusetts Institute of Technology",
+        "value": 5
+    },
+    {
+        "name": "Syracuse University",
+        "value": 4
+    },
+    {
+        "name": "Simon Fraser University",
+        "value": 4
+    },
+    {
+        "name": "Refik Anadol Studio",
+        "value": 4
+    },
+    {
+        "name": "Parsons School of Design",
+        "value": 4
+    },
+    {
+        "name": "University of Calgary ",
+        "value": 4
+    },
+    {
+        "name": "FH Potsdam",
+        "value": 4
+    },
+    {
+        "name": "York University",
+        "value": 3
+    },
+    {
+        "name": "DensityDesign Lab",
+        "value": 3
+    },
+    {
+        "name": "Kiln",
+        "value": 3
+    },
+    {
+        "name": "University of Utah",
+        "value": 3
+    },
+    {
+        "name": "University of Coimbra",
+        "value": 3
+    },
+    {
+        "name": "University of Stuttgart ",
+        "value": 3
+    },
+    {
+        "name": "moovel Group",
+        "value": 3
+    },
+    {
+        "name": "University of Texas at Austin",
+        "value": 3
+    },
+    {
+        "name": "University of California, San Diego",
+        "value": 3
+    },
+    {
+        "name": "Ontario Tech University",
+        "value": 3
+    },
+    {
+        "name": "University of Illinois at Chicago",
+        "value": 3
+    },
+    {
+        "name": "UT Dallas",
+        "value": 3
+    },
+    {
+        "name": "KU Leuven",
+        "value": 2
+    },
+    {
+        "name": "University of Stuttgart",
+        "value": 2
+    },
+    {
+        "name": "University Lille, INRIA/CNRS",
+        "value": 2
+    },
+    {
+        "name": "Arizona State University ",
+        "value": 2
+    },
+    {
+        "name": "IBM Research AI",
+        "value": 2
+    },
+    {
+        "name": "University of North Texas",
+        "value": 2
+    },
+    {
+        "name": "Indiana University Bloomington",
+        "value": 2
+    },
+    {
+        "name": "Purdue University ",
+        "value": 2
+    },
+    {
+        "name": "DePaul University",
+        "value": 2
+    },
+    {
+        "name": "California State University",
+        "value": 2
+    },
+    {
+        "name": "Reconnoitre",
+        "value": 2
+    },
+    {
+        "name": "University of Minnesota",
+        "value": 2
+    },
+    {
+        "name": "Technische Universitat Dresden",
+        "value": 2
+    },
+    {
+        "name": "Monmouth University",
+        "value": 2
+    },
+    {
+        "name": "University of Utah in Salt Lake City",
+        "value": 2
+    },
+    {
+        "name": "Tsinghua University",
+        "value": 1
+    },
+    {
+        "name": "Beijing Blingo Tech",
+        "value": 1
+    },
+    {
+        "name": "The Professor Is In",
+        "value": 1
+    },
+    {
+        "name": "Accurat",
+        "value": 1
+    },
+    {
+        "name": "Deep Orange Data, LLC",
+        "value": 1
+    },
+    {
+        "name": "University of Cologne",
+        "value": 1
+    },
+    {
+        "name": "Design at Politecnico di Milano",
+        "value": 1
+    },
+    {
+        "name": "Concordia University",
+        "value": 1
+    },
+    {
+        "name": "moovel lab",
+        "value": 1
+    },
+    {
+        "name": "University of St Andrews",
+        "value": 1
+    },
+    {
+        "name": "Harvar",
+        "value": 1
+    },
+    {
+        "name": "University of Sussex",
+        "value": 1
+    },
+    {
+        "name": "Deep Orange Data",
+        "value": 1
+    },
+    {
+        "name": "Academy of Media Arts Cologne",
+        "value": 1
+    },
+    {
+        "name": "Data Design Co.",
+        "value": 1
+    },
+    {
+        "name": "University of Leeds",
+        "value": 1
+    },
+    {
+        "name": "metaLAB, Harvard, Cambridge, Europäische Medienwissenschaft and Universität Potsdam",
+        "value": 1
+    },
+    {
+        "name": "Accutive",
+        "value": 1
+    },
+    {
+        "name": "Centre National de la Recherche Scientifique",
+        "value": 1
+    },
+    {
+        "name": "San Jose State University ",
+        "value": 1
+    },
+    {
+        "name": "Northumbria University",
+        "value": 1
+    },
+    {
+        "name": "Colby College",
+        "value": 1
+    },
+    {
+        "name": "Universidad de Chile",
+        "value": 1
+    },
+    {
+        "name": "Universidad Diego Portales",
+        "value": 1
+    },
+    {
+        "name": "Universidad del Desarrollo ",
+        "value": 1
+    },
+    {
+        "name": "Zhejiang Sci-Tech University",
+        "value": 1
+    },
+    {
+        "name": "IBM Research",
+        "value": 1
+    },
+    {
+        "name": "Mannheim University of Applied Sciences",
+        "value": 1
+    },
+    {
+        "name": "New School for Social Research",
+        "value": 1
+    },
+    {
+        "name": "Ravensbourne University London",
+        "value": 1
+    },
+    {
+        "name": "University of Victoria",
+        "value": 1
+    },
+    {
+        "name": "Iowa State University",
+        "value": 1
+    },
+    {
+        "name": "University of Paris 1 Pantheon- Sorbonne",
+        "value": 1
+    },
+    {
+        "name": "Global Medical Innovation",
+        "value": 1
+    },
+    {
+        "name": "King’s College London",
+        "value": 1
+    },
+    {
+        "name": "Texas A&M University ",
+        "value": 1
+    },
+    {
+        "name": "Shanghai Institute of Technology",
+        "value": 1
+    },
+    {
+        "name": "Office for National Statistics, UK",
+        "value": 1
+    },
+    {
+        "name": "Université de Montréal",
+        "value": 1
+    },
+    {
+        "name": "Royal College of Art ",
+        "value": 1
+    },
+    {
+        "name": "University of Washington",
+        "value": 1
+    },
+    {
+        "name": "University of New Mexico",
+        "value": 1
+    },
+    {
+        "name": "The University of Waikato",
+        "value": 1
+    },
+    {
+        "name": "University of Bergen",
+        "value": 1
+    },
+    {
+        "name": "Temple University",
+        "value": 1
+    },
+    {
+        "name": "University of Illinois",
+        "value": 1
+    },
+    {
+        "name": "Imperial College London",
+        "value": 1
+    },
+    {
+        "name": "Royal College of Art",
+        "value": 1
+    },
+    {
+        "name": "Texas A&M",
+        "value": 1
+    },
+    {
+        "name": "Victoria University",
+        "value": 1
+    },
+    {
+        "name": "Pace University ",
+        "value": 1
+    },
+    {
+        "name": "University of Texas",
+        "value": 1
+    },
+    {
+        "name": "UCLA and Otis College of Art and Design",
+        "value": 1
+    },
+    {
+        "name": "University College London",
+        "value": 1
+    },
+    {
+        "name": "INRIA",
+        "value": 1
+    },
+    {
+        "name": "Seoul Women’s  University,Seoul National University",
+        "value": 1
+    },
+    {
+        "name": "University of Waikato \n ",
+        "value": 1
+    },
+    {
+        "name": "Chicago State University",
+        "value": 1
+    },
+    {
+        "name": "Ryerson University",
+        "value": 1
+    },
+    {
+        "name": "University of Illinois \nat Urbana-Champaign (UIUC)",
+        "value": 1
+    },
+    {
+        "name": "School of the Art Institute of Chicago",
+        "value": 1
+    },
+    {
+        "name": "Ars Electronica Futurelab ",
+        "value": 1
+    },
+    {
+        "name": " an artist；Professor of Computational Creativity；CEO, IcebreakerOne.org + board portfolio；Professor",
+        "value": 1
+    },
+    {
+        "name": "media artist and researcher；internationally exhibited artist",
+        "value": 1
+    },
+    {
+        "name": "Lecturer, Medialab, Queen's University Belfast；an Architect and Emergent technologies and design specialist；an artist, performer and developer.",
+        "value": 1
+    },
+    {
+        "name": "Open Data Institute",
+        "value": 1
+    },
+    {
+        "name": "Queen Mary University of London",
+        "value": 1
+    },
+    {
+        "name": "Studio National des Arts Contemporains",
+        "value": 1
+    },
+    {
+        "name": "University of Washington-Bothell",
+        "value": 1
+    },
+    {
+        "name": "Hi-ReS!",
+        "value": 1
+    },
+    {
+        "name": "Northeastern University ",
+        "value": 1
+    },
+    {
+        "name": "Studio Benedikt Groß ",
+        "value": 1
+    },
+    {
+        "name": "Rhode Island School of Design",
+        "value": 1
+    },
+    {
+        "name": "Bradbury Science Museum",
+        "value": 1
+    },
+    {
+        "name": "Rochester Institute of Technology",
+        "value": 1
+    },
+    {
+        "name": "American University of Sharjah",
+        "value": 1
+    },
+    {
+        "name": "San Francisco State University ",
+        "value": 1
+    },
+    {
+        "name": "City University London",
+        "value": 1
+    },
+    {
+        "name": "Sogang University",
+        "value": 1
+    },
+    {
+        "name": "University of British Columbia",
+        "value": 1
+    },
+    {
+        "name": "Apple",
+        "value": 1
+    }
+]

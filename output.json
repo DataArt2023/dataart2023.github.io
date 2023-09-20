@@ -394,7 +394,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "not specified"
@@ -689,7 +689,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable",
+            "equip",
             "witness"
         ],
         "whereField": [
@@ -919,7 +919,7 @@
             "experimental animation"
         ],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "computer science"
@@ -955,7 +955,7 @@
             "algorithmic art"
         ],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "art"
@@ -1027,7 +1027,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "not specified"
@@ -1917,7 +1917,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "urban studies"
@@ -3081,7 +3081,7 @@
             "data sonification"
         ],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "not specified"
@@ -3435,7 +3435,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "urban studies"
@@ -3760,7 +3760,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "not specified"
@@ -4304,7 +4304,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "not specified"
@@ -4457,7 +4457,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "not specified"
@@ -4782,7 +4782,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "memorize"
+            "commemorate"
         ],
         "whereField": [
             "health & well-being"
@@ -4888,7 +4888,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "not specified"
@@ -5547,7 +5547,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "enable"
+            "equip"
         ],
         "whereField": [
             "art"
@@ -5909,7 +5909,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "memorize",
+            "commemorate",
             "experiment"
         ],
         "whereField": [

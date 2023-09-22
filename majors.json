@@ -45,7 +45,7 @@
     },
     {
         "name": "Creative Media",
-        "value": 2
+        "value": 3
     },
     {
         "name": "(digital interactive technology and performance)Fine Arts",
@@ -108,7 +108,7 @@
         "value": 1
     },
     {
-        "name": "[NONE]Art, Design and Drama",
+        "name": "Art, Design and Drama",
         "value": 1
     },
     {
@@ -161,10 +161,6 @@
     },
     {
         "name": "Art and Design",
-        "value": 1
-    },
-    {
-        "name": "[NONE]Creative Media",
         "value": 1
     },
     {
@@ -328,7 +324,7 @@
         "value": 1
     },
     {
-        "name": "[NONE] Biomedical Sciences",
+        "name": "Biomedical Sciences",
         "value": 1
     }
 ]

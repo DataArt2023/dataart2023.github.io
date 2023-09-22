@@ -4,7 +4,7 @@
         "value": 16
     },
     {
-        "name": "Urban Complexity Lab",
+        "name": "Urban Science ",
         "value": 5
     },
     {
@@ -49,10 +49,6 @@
     },
     {
         "name": "Art, Media and Design",
-        "value": 2
-    },
-    {
-        "name": "Art + Design",
         "value": 2
     },
     {
@@ -109,14 +105,10 @@
     },
     {
         "name": "lnteractive Arts & Technology",
-        "value": 1
+        "value": 2
     },
     {
         "name": "Geography and the Environment",
-        "value": 1
-    },
-    {
-        "name": "Interactive Art and Technology",
         "value": 1
     },
     {
@@ -124,7 +116,7 @@
         "value": 1
     },
     {
-        "name": "Cognitive and Media Systems group of Centre for Informatics and Systems",
+        "name": "Informatics and Systems",
         "value": 1
     },
     {
@@ -137,7 +129,7 @@
     },
     {
         "name": "Art and Design",
-        "value": 2
+        "value": 4
     },
     {
         "name": "(HCI and Human-centered AI) Information",
@@ -164,19 +156,15 @@
         "value": 1
     },
     {
-        "name": "Institute for Media Studies",
+        "name": "Media Studies",
         "value": 1
     },
     {
-        "name": "Media Arts & Technology Program",
+        "name": "Urban studies and planning",
         "value": 1
     },
     {
-        "name": "MIT SENSEable City Lab",
-        "value": 1
-    },
-    {
-        "name": "CyberShARE Center for Excellence Visualization Lab",
+        "name": "CyberShARE Center for Excellbence Visualization Lab",
         "value": 1
     },
     {
@@ -200,10 +188,6 @@
         "value": 1
     },
     {
-        "name": "Media arts and Technology",
-        "value": 5
-    },
-    {
         "name": "Sculpture",
         "value": 1
     },
@@ -220,7 +204,7 @@
         "value": 1
     },
     {
-        "name": "Interdisciplinary Arts and Performance program",
+        "name": "Interdisciplinary Arts and Performance",
         "value": 1
     },
     {
@@ -229,7 +213,7 @@
     },
     {
         "name": "Media Arts & Technology",
-        "value": 2
+        "value": 8
     },
     {
         "name": "Communication",
@@ -240,7 +224,7 @@
         "value": 1
     },
     {
-        "name": "California Institute For Telecommunications And Information Technology",
+        "name": "Telecommunications And Information Technology",
         "value": 1
     },
     {

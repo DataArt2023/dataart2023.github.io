@@ -1,15 +1,15 @@
 [
     {
         "name": "Design",
-        "value": 12
+        "value": 16
     },
     {
         "name": "Urban Complexity Lab",
         "value": 5
     },
     {
-        "name": "computer science",
-        "value": 3
+        "name": "Computer Science",
+        "value": 8
     },
     {
         "name": "Information",
@@ -20,20 +20,16 @@
         "value": 3
     },
     {
-        "name": "School of Interactive Arts and Technology",
+        "name": "Interactive Arts and Technology",
         "value": 3
     },
     {
         "name": "Informatics Engineering",
+        "value": 4
+    },
+    {
+        "name": "Art",
         "value": 3
-    },
-    {
-        "name": "Computer Science",
-        "value": 2
-    },
-    {
-        "name": "Edinburgh College of Art",
-        "value": 2
     },
     {
         "name": "Computational Media",
@@ -48,8 +44,8 @@
         "value": 3
     },
     {
-        "name": "(digital interactive technology and performance)Fine Arts",
-        "value": 2
+        "name": "Fine Arts",
+        "value": 7
     },
     {
         "name": "Art, Media and Design",
@@ -61,10 +57,6 @@
     },
     {
         "name": "visual communication design",
-        "value": 2
-    },
-    {
-        "name": "Department of Computer Science",
         "value": 2
     },
     {
@@ -96,18 +88,6 @@
         "value": 1
     },
     {
-        "name": "Fine Arts",
-        "value": 1
-    },
-    {
-        "name": "(design)Fine Arts",
-        "value": 1
-    },
-    {
-        "name": "(digital Interactive Art)Fine Arts",
-        "value": 1
-    },
-    {
         "name": "Art, Design and Drama",
         "value": 1
     },
@@ -116,7 +96,7 @@
         "value": 1
     },
     {
-        "name": "Digital Media Art(Design)",
+        "name": "Digital Media Art",
         "value": 1
     },
     {
@@ -148,10 +128,6 @@
         "value": 1
     },
     {
-        "name": "(Big Data Visual Analytics in Life Sciences)computer science",
-        "value": 1
-    },
-    {
         "name": "Baltic Film, Media and Arts",
         "value": 1
     },
@@ -161,7 +137,7 @@
     },
     {
         "name": "Art and Design",
-        "value": 1
+        "value": 2
     },
     {
         "name": "(HCI and Human-centered AI) Information",
@@ -180,12 +156,8 @@
         "value": 1
     },
     {
-        "name": "School of Architecture",
-        "value": 1
-    },
-    {
-        "name": "design",
-        "value": 1
+        "name": "Architecture",
+        "value": 4
     },
     {
         "name": "engineering",
@@ -212,15 +184,7 @@
         "value": 1
     },
     {
-        "name": "Masters of Architecture",
-        "value": 1
-    },
-    {
-        "name": "Master of Biomedical Engineering, \nMedia Arts and Technology and Art- ist-in-Residency in Media Neuroscience Lab",
-        "value": 1
-    },
-    {
-        "name": "Bachelor of Science in Design from University of Cincinnati, Department of Design, Architecture, Art and Planning, and MFA from Design Media Arts, UCLA. Currently she is working towards a Doctorate in Media Arts and Technology at UC Santa Barbara",
+        "name": "Biomedical Engineering",
         "value": 1
     },
     {
@@ -236,31 +200,15 @@
         "value": 1
     },
     {
-        "name": "School of Art Institute of Chicago",
-        "value": 1
-    },
-    {
         "name": "Media arts and Technology",
-        "value": 1
-    },
-    {
-        "name": "Media Arts and Technology department",
-        "value": 1
+        "value": 5
     },
     {
         "name": "Sculpture",
         "value": 1
     },
     {
-        "name": "Design Informatics at the Department of Architecture",
-        "value": 1
-    },
-    {
-        "name": "School of Fine Arts",
-        "value": 1
-    },
-    {
-        "name": "Department of Biology",
+        "name": "Biology",
         "value": 1
     },
     {
@@ -276,43 +224,15 @@
         "value": 1
     },
     {
-        "name": "Media Arts and Technology",
-        "value": 1
-    },
-    {
-        "name": "Design department",
-        "value": 1
-    },
-    {
         "name": "Intermedia",
         "value": 1
     },
     {
-        "name": "School of Art, Media, and Technology",
-        "value": 1
-    },
-    {
         "name": "Media Arts & Technology",
-        "value": 1
-    },
-    {
-        "name": "Master of Fine Arts",
-        "value": 1
+        "value": 2
     },
     {
         "name": "Communication",
-        "value": 1
-    },
-    {
-        "name": "Academy of Art and Design",
-        "value": 1
-    },
-    {
-        "name": "M-Arch, PhD in Design",
-        "value": 1
-    },
-    {
-        "name": "Department of Informatics Engineering",
         "value": 1
     },
     {

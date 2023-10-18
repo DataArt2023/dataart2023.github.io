@@ -1,0 +1,6436 @@
+[
+    {
+        "name": "XEPA",
+        "author": "Philip Galanter",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "animation",
+            "sound/music",
+            "light",
+            "synchronous generation"
+        ],
+        "designParadigm": [
+            "generative art",
+            "computational aesthetic evaluation",
+            "neuroaesthetics",
+            "physical computing"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "an artist, theorist, and curator",
+        "Background": "School of Architecture",
+        "Affiliation": "Texas A&M University ",
+        "Notes": "where the computer seems to directly create art in a hands-off manner. This kind of art is typically referred to as generative art...\nGenerative art refers to any art practice where the artist uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art. [1] \n \n \n  \n \n \n ",
+        "images": "XEPA.png"
+    },
+    {
+        "name": "Thermal Image",
+        "author": "Barry Moon and Hilary Harp",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "light",
+            "color",
+            "physical meterial",
+            "touch/manipulate"
+        ],
+        "designParadigm": [
+            "ambient display"
+        ],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "thermochromic film",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "The piece is slow and meditative, slowing viewers down and tuning them in to intangible emotional forces that are a crucial aspect of the psychology of groups",
+        "images": "Thermal Image.png"
+    },
+    {
+        "name": "Cloud Bridge",
+        "author": "Qian Liu and Yoon Chung Han",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "color",
+            "sound/music",
+            "large immersive screen",
+            "synchronous generation"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": " large shared \nscreens and a surround-sound system,Android \nand iOS devices",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Data is one of the most important materials of her research. Her general body of work focuses on redefining, reformatting, and representing data and how human perception reacts to it.\nher aim is to push people away from paradigmatic thinking.",
+        "images": "Cloud Bridge.png"
+    },
+    {
+        "name": "TYPE+CODE II【2007-2012 Renewed】",
+        "author": "Yeohyun Ahn",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "typography"
+        ],
+        "designParadigm": [
+            "computer art",
+            "graphic art"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "typographer, designer and educator",
+        "Background": "School of Art Institute of Chicago",
+        "Affiliation": "Chicago State University",
+        "Notes": "I use letters, words phrases, and sentences to explore innovative typographic forms with basic visual elements. They convey diversified visual messages inspired by nature, addressing environmental issues such as green design, healing through arts, exploring philosophical and religious inter- pretation regarding life, death and love.",
+        "images": "TYPE+CODE II【2007-2012 Renewed】.png"
+    },
+    {
+        "name": "TweetProbe",
+        "author": "Byungkyu Kang, George Legrady, and Tobias Hollerer",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface",
+            "installation"
+        ],
+        "designTechnique": [
+            "animation",
+            "GUI interaction",
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "analyze"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "rain drops",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "Department of Computer Science ",
+        "Affiliation": "University of California, Santa Barbara",
+        "Notes": "",
+        "images": "TweetProbe.png"
+    },
+    {
+        "name": "VICISS",
+        "author": "kEiTH Soo",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "color",
+            "sound/music"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "designer, educator",
+        "Background": "Computer Graphic Design",
+        "Affiliation": "University of Waikato \n ",
+        "Notes": "",
+        "images": "VICISS.png"
+    },
+    {
+        "name": "EMC (Emergent Mind of City) 2 and Qualia Landscapes",
+        "author": "A.M. & BiKE Lab (EMC 2); Jeong Han Kim (Qualia Landscapes).",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "neuro/organ",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "This project has been inspired by Leonardo da Vinci’s “City of Water, Design of City as an organism.” ",
+        "images": "EMC (Emergent Mind of City) 2 and Qualia Landscapes.png"
+    },
+    {
+        "name": "Spirograph Designs",
+        "author": "Ye Lin and Romain Vuillemot",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "metaphor",
+            
+            "shape/pattern"
+        ],
+        "designParadigm": [
+            "ambient display"
+        ],
+        "whatPurpose": [
+            "analyze",
+            "experiment"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "flower",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "The resulting visualization\nis appealing and efficiently shows Tweets distribution over time and trends both during short and long time spans. Those early\nresults show that Spirographs can go beyond simple artworks and can effectively bear both attractiveness and structure, which make them perfect candidate for ambient display.",
+        "images": "Spirograph Designs.png"
+    },
+    {
+        "name": "Salton Sea Revisited",
+        "author": "Xarene Eskandar",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "montage",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal",
+            "experiment"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "researcher and artist",
+        "Background": "Bachelor of Science in Design from University of Cincinnati, Department of Design, Architecture, Art and Planning, and MFA from Design Media Arts, UCLA. Currently she is working towards a Doctorate in Media Arts and Technology at UC Santa Barbara",
+        "Affiliation": "UCLA and Otis College of Art and Design",
+        "Notes": "This water-focused body of work also allows me to merge my interests in studying time and scale with my concern in troubled and impaired bodies of water and the water rights of wildlife in order to use my art beyond aesthetic inquiries and as social action...What I am specifically aiming for in my general body of work is this last point: being able to supersede oneself through perception. Subjectivity resides beyond the point where proof exists. ",
+        "images": "Salton Sea Revisited.png"
+    },
+    {
+        "name": "Time Giver",
+        "author": "Yuan-Yi Fan, F. Myles Sciotto and JoAnn Kuchera-Morin",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "synchronous generation",
+            "sound/music",
+            "shape/pattern",
+            "large immersive screen",
+            "participation/co-dusign"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "experiment",
+            "socialize"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "BioSync interface  running on personal mobile device",
+        "datatype": [
+            "physiological data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Time Giver.png"
+    },
+    {
+        "name": "Parallel-Coordinates Art",
+        "author": "Julian Heinrich and Daniel Weiskopf",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "color",
+            "layout",
+            "shape/pattern"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "high-dimensional data"
+        ],
+        "个性化身份": "Julian Heinrich, a student member of IEEE, and Daniel Weiskopf, a member of IEEE Computer Society.",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "our technique is not designed to reveal new insights into the dataset at hand but rather generates visually pleasing images. \n \n \n ",
+        "images": "Parallel-Coordinates Art.png"
+    },
+    {
+        "name": "Observation",
+        "author": "William Fairbrother and Mercedes Gimeno-Segovia",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "physics"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "a circular backlit \nlenticular print ",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Observation.png"
+    },
+    {
+        "name": "Voice of Sisyphus",
+        "author": "George Legrady, Ryan McGee, and Joshua Dickinson",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "large immersive screen",
+            "sound/music"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data",
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Voice of Sisyphus.png"
+    },
+    {
+        "name": "Shanghai Metro Flow",
+        "author": "Till Nagel and Benedikt Groß",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "video",
+            "static image"
+        ],
+        "designTechnique": [
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "an animation and an \naccompanying infographic poster.",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Shanghai Metro Flow.png"
+    },
+    {
+        "name": "Spatial Correlation",
+        "author": "Jung Nam and Daniel Keefe",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "participation/co-dusign",
+            "AR/VR/MR",
+            "synchronous generation",
+            "gesture",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "VR(3D computer graphics and CavePainting software, multiperspective video capture system, optical 3D tracking \nand depth sensors.)",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "provides a new window into the process of creating handcrafted virtual sculpture in a CAVE virtual reality (VR) environment.",
+        "images": "Spatial Correlation.png"
+    },
+    {
+        "name": "Smellmap",
+        "author": "Kate McLean",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "smell",
+            "participation/co-dusign"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke",
+            "inform"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "perfume",
+        "datatype": [
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Smellmap.png"
+    },
+    {
+        "name": "Flows",
+        "author": "Duncan Shingleton and Mark Kobine",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "synchronous generation",
+            "light",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "Arduino controlled \nair turbines",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "explores Manuel Castell’s theory of the Space of Flows, proposed in The Rise of the Network Society (1996), which relates to network society and technologies role in a new type of space. \n \n \n ",
+        "images": "Flows.png"
+    },
+    {
+        "name": "Point Cloud / Application of Gestalt Principles to Multimodal Data Representation",
+        "author": "Muhammad Hafiz Wan Rosli and Andres Cabrera",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "sound/music"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "reveal",
+            "experiment"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "high-dimensional data",
+            "multi-modal data",
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Point Cloud _ Application of Gestalt Principles to Multimodal Data Representation.png"
+    },
+    {
+        "name": "Visualizing Expressiveness in Conducting Gestures",
+        "author": "Kyungho Lee",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface",
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "gesture",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip",
+            "witness"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "University of Illinois",
+        "Notes": "",
+        "images": "Visualizing Expressiveness in Conducting Gestures.png"
+    },
+    {
+        "name": "Soybots: Mobile Micro-Gardens",
+        "author": "Fabian Winkler and Shannon McMullen",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "light",
+            "robot",
+            "non-human creatures"
+        ],
+        "designParadigm": [
+            "speculative design"
+        ],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "A small fleet of autonomous robotic  platforms, outfitted with custom  planter boxes containing soybean  plants",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Soybots_ Mobile Micro-Gardens.png"
+    },
+    {
+        "name": "Culturegraphy",
+        "author": "Kim Albrecht, Marian Dörk, and Boris Müller",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "layout",
+            "color",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "socialize",
+            "analyze"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Culturegraphy.png"
+    },
+    {
+        "name": "Automatically Generating Animations From Escher’s Images",
+        "author": "Danny Bazo",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "video",
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "animation",
+            "montage"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "University of California, Santa Barbara",
+        "Notes": "",
+        "images": "Automatically Generating Animations From Escher’s Images.png"
+    },
+    {
+        "name": "Hearts and Minds",
+        "author": "Roderick Coover, Scott Rettberg, Daria Tsoupikova, and Arthur Nishimoto",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            
+        ],
+        "designTechnique": [
+            "AR/VR/MR",
+            "human story",
+            "animation",
+            "large immersive screen",
+            "sound/music",
+            "light",
+            "color"
+        ],
+        "designParadigm": [
+            "digital humanism"
+        ],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Hearts and Minds.png"
+    },
+    {
+        "name": "Psycolorgy",
+        "author": "Chin-En Soo",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "color",
+            "shape/pattern"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "engage"
+        ],
+        "whereField": [
+            "psychology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "The University of Waikato",
+        "Notes": "",
+        "images": "Psycolorgy.png"
+    },
+    {
+        "name": "Beyond Data: Abstract Motionscapes as Affective Visualization",
+        "author": "Chao Feng, Lyn Bartram, and Diane Gromala",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "animation",
+            "layout",
+            "shape/pattern",
+            "AR/VR/MR"
+        ],
+        "designParadigm": [
+            "generative art",
+            "ambient display",
+            "abstract cinema/cinematography",
+            "experimental animation"
+        ],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Beyond Data_ Abstract Motionscapes as Affective Visualization.png"
+    },
+    {
+        "name": "Painting with Flow",
+        "author": "Corinna Vehlow, Fabian Beck, and Daniel Weiskopf",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "color",
+            "metaphor"
+        ],
+        "designParadigm": [
+            "algorithmic art"
+        ],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "flora",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Painting with Flow.png"
+    },
+    {
+        "name": "The Living Canvas: Interactive Chloroplasts",
+        "author": "Margaret Dolinsky and Roger Hangarter",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "static image",
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "light",
+            "imagery/icon/photo",
+            "non-human creatures"
+        ],
+        "designParadigm": [
+            "digital photograph"
+        ],
+        "whatPurpose": [
+            "inform",
+            "provoke"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Living Canvas_ Interactive Chloroplasts.png"
+    },
+    {
+        "name": "Node-Ring Graph Visualization Clears Edge Congestion",
+        "author": "Katayoon Etemad, Sheelagh Carpendale, and Faramarz Samavati",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "layout",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Node-Ring Graph Visualization Clears Edge Congestion.png"
+    },
+    {
+        "name": "Expressive Cartography and the Aesthetics of Public Visualization",
+        "author": "Patricio Davila, Dave Colangelo, Maggie Chan, and Robert Tu",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "light",
+            "color",
+            "animation",
+            "synchronous generation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage",
+            "advocate"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Aesthetic visualization projects that incorporate users, community\nstakeholders, multiple modalities and technologies necessarily\nemphasize the way that an artistic visualization can be both an\nartifact and a process — a conceptualization of aesthetic\nvisualization that is useful for thinking about visualization in\ngeneral. ...Another social outcome of this project is the media attention\nthat it generated. This was one of our goals with this project: to\ncreate a compelling and spectacular interface to draw attention to\nand illustrate a not-so-spectacular reality of contemporary urban\nlife. ",
+        "images": "Expressive Cartography and the Aesthetics of Public Visualization.png"
+    },
+    {
+        "name": "Solar Superstorms",
+        "author": "Donna Cox",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video",
+            "event"
+        ],
+        "designTechnique": [
+            "human story",
+            "animation",
+            "large immersive screen"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal",
+            "inform"
+        ],
+        "whereField": [
+            "astronomy"
+        ],
+        "意象": "",
+        "computation": "supercomputing",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "Master of Fine Arts",
+        "Affiliation": "University of Illinois \nat Urbana-Champaign (UIUC)",
+        "Notes": "",
+        "images": "Solar Superstorms.png"
+    },
+    {
+        "name": "Spiral 5 and Particle Dreams(A Study of 4D  Julia Sets, and  Particle Dreams  in Spherical)",
+        "author": "Dan Sandin",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video",
+     
+            "installation"
+        ],
+        "designTechnique": [
+            "AR/VR/MR",
+            "animation",
+            
+            "color",
+            "shape/pattern"
+        ],
+        "designParadigm": [
+            "electronic art"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "math"
+        ],
+        "意象": "",
+        "computation": "video processing",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "a pioneer of electronic art and visualization",
+        "Background": "California Institute For Telecommunications And Information Technology \n ",
+        "Affiliation": "University of California, San Diego",
+        "Notes": "",
+        "images": "Spiral 5 and Particle Dreams(A Study of 4D  Julia Sets, and  Particle Dreams  in Spherical).png"
+    },
+    {
+        "name": "Lagoglyph and Lagoogleglyph",
+        "author": "Eduardo Kac",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "animation",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "Art and Technology",
+        "Affiliation": "School of the Art Institute of Chicago",
+        "Notes": "",
+        "images": "Lagoglyph and Lagoogleglyph.png"
+    },
+    {
+        "name": "Aerial Bold",
+        "author": "Benedikt Groß and Joey Lee",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "typography",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "engage"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Aerial Bold.png"
+    },
+    {
+        "name": "Endless Current",
+        "author": "Haru Ji, Graham Wakefifield",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "AR/VR/MR",
+            "body movement",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Endless Current.png"
+    },
+    {
+        "name": "We Become the City",
+        "author": "Jo Wood",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "non-human view",
+            "montage"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke",
+            "experiment"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "City University London",
+        "Notes": "",
+        "images": "We Become the City.png"
+    },
+    {
+        "name": "Bad Data",
+        "author": "Scott Kildall",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "metaphor"
+        ],
+        "designParadigm": [
+            "digital fabrication"
+        ],
+        "whatPurpose": [
+            "experiment",
+            "criticize"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "etched  onto aluminum honeycomb panels using a high-pressure  water-jet machine",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Bad Data offers an alternative form of data-representation through contemporary forms of digital fabrication. The effect of the water- jet machine is unpredictable. The top layer of the honeycomb gets pierced with the etching, while the bottom\nlayer remains intact, creating gaps and fissures in the honeycomb material. The selected data mirrors the material itself with uneven patterns and uncertain outcomes.",
+        "images": "Bad Data.png"
+    },
+    {
+        "name": "Inner Space Artifacts",
+        "author": "Ben Ridgway",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "animation",
+            "sound/music",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "San Francisco State University ",
+        "Notes": "The work is abstract by nature and uses non-narrative\nfilm making techniques...In a world where technology and artificial systems are becoming more prevalent, Inner Space Artifacts is a reminder that they are both a product of nature.",
+        "images": "Inner Space Artifacts.png"
+    },
+    {
+        "name": "Memory scapes",
+        "author": "Emilio Vavarella",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "human story",
+            "glitch"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "archive"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Memory scapes.png"
+    },
+    {
+        "name": "Seeing Temporal Data",
+        "author": "Kevin Badn",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "psychology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "American University of Sharjah",
+        "Notes": "",
+        "images": "Seeing Temporal Data.png"
+    },
+    {
+        "name": "Agitato",
+        "author": "Rebecca Ruige Xu and Sean Hongsheng Zhai",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Syracuse University",
+        "Notes": "",
+        "images": "Agitato.png"
+    },
+    {
+        "name": "Visual Gibberings",
+        "author": "Charlie Roberts",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "sound/music",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Rochester Institute of Technology",
+        "Notes": "",
+        "images": "Visual Gibberings.png"
+    },
+    {
+        "name": "Climate Prisms: The Arctic (Climate Prisms: The Arctic - Connecting climate research and climate modeling via the language of art)",
+        "author": "Francesca Samsel, Linda Deck, and Bruce Campbell",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "imagery/icon/photo",
+            "human story"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Climate Prisms_ The Arctic (Climate Prisms_ The Arctic - Connecting climate research and climate modeling via the language of art).png"
+    },
+    {
+        "name": "20/X",
+        "author": "Shannon McMullen and Fabian Winkler",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "glitch",
+            "non-human view"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "criticize"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "synthetic vision system",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "humans will need to learn\n to see like machines, to understand their abstractions and their categorizations of things in the world. \n \n \n ",
+        "images": "20_X.png"
+    },
+    {
+        "name": "Sorting Out Cities",
+        "author": "Dietmar Offenhuber and Ars Electornica Futurelab",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation",
+            "video"
+        ],
+        "designTechnique": [
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Sorting Out Cities.png"
+    },
+    {
+        "name": "A Stranger to Words",
+        "author": "Meng Chih Chiang",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "layout",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "experiment"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data",
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Hi-ReS!",
+        "Notes": "",
+        "images": "A Stranger to Words.png"
+    },
+    {
+        "name": "Deep in Poetry",
+        "author": "Julie Lein, Nina McCurdy, Katharine Coles, and Amanda Hurtado",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Deep in Poetry.png"
+    },
+    {
+        "name": "FreeHands: A Journey along Sketching in Virtual Space",
+        "author": "Pauline De Chalendar, Samuel Degrande, and Laurent Grisoni,",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "AR/VR/MR",
+            "personalization"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "daily life"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "drawing becomes almost an act of resistance against time that seems to always run faster and faster. \n \n \n ",
+        "images": "FreeHands_ A Journey along Sketching in Virtual Space.png"
+    },
+    {
+        "name": "Natural Rejection",
+        "author": "Kurt Kaminski",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "shape/pattern"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "University of California, Santa Barbara",
+        "Notes": "",
+        "images": "Natural Rejection.png"
+    },
+    {
+        "name": "MarshVis",
+        "author": "QianSheng Li, Gershon Dublon, Brian Mayton, and Joseph Paradiso",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "analyze",
+            "reveal"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "dense sensor network",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "MarshVis.png"
+    },
+    {
+        "name": "We Need Us",
+        "author": "Julie Freeman",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "animation",
+            "sound/music",
+            "shape/pattern",
+            "color",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "We Need Us.png"
+    },
+    {
+        "name": "Ambiguous topology: From interactive to pro-active spatial environments",
+        "author": "J.-R. Chang, N. Biloria, and D. Vandoren",
+        "time": [
+            "2015"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            
+            "light",
+            
+            "body movement",
+            "synchronous generation"
+        ],
+        "designParadigm": [
+            "spatial narrative"
+        ],
+        "whatPurpose": [
+            "experiment",
+            "provoke"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "swarm computing",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Lecturer, Medialab, Queen's University Belfast；an Architect and Emergent technologies and design specialist；an artist, performer and developer.",
+        "Notes": "",
+        "images": "Ambiguous topology_ From interactive to pro-active spatial environments.png"
+    },
+    {
+        "name": "Urban Radiance",
+        "author": "Dietmar Offenhuber",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "Operational Line Scanner (OLS) sensor",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Northeastern University",
+        "Notes": "",
+        "images": "Urban Radiance.png"
+    },
+    {
+        "name": "Roads to Rome(All Roads to Rome: Visualizing Mobility at Scale)",
+        "author": "Benedikt Groß, Raphael Reimann, and Philipp Schmitt",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "static image",
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Roads to Rome has gained great attention in a number of popular news media and blogs. The broad acceptance of the work showed that the rather emotionless topic of routing can be backed by public interest by displaying it in an accessible and tangible way. It can be seen as a door opener for discussions about the connection between mobility and infrastructure, politics, history and geography. \n \n \n ",
+        "images": "Roads to Rome(All Roads to Rome_ Visualizing Mobility at Scale).png"
+    },
+    {
+        "name": "barelyLegal_",
+        "author": "Jessica Parris Westbrook and Adam Trowbridge",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "analogy"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "barelyLegal_.png"
+    },
+    {
+        "name": "California Drought Impact(California Drought Impact: Multimodal Data Representation to Predict the Water Cycle)",
+        "author": "Yoon Chung Han and Shankar Tiwari,",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            
+            "physical meterial"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "advocate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "激光切割木板，物理数据雕塑，投影映射图像，音频合成",
+        "datatype": [
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "California Drought Impact(California Drought Impact_ Multimodal Data Representation to Predict the Water Cycle).png"
+    },
+    {
+        "name": "Geode",
+        "author": "Esteban Garcia Bravo, Maxwell Carlson, Aaron Zernack, and Jorge Garcia,",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "sound/music",
+            "light"
+        ],
+        "designParadigm": [
+            "neo-concrete art"
+        ],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Geode.png"
+    },
+    {
+        "name": "cf. city flows (Staged Analysis: From Evocative to Comparative Visualizations of Urban Mobility)",
+        "author": "Till Nagel, Christopher Pietsch, and Marian Dörk",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "analyze"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "cf. city flows (Staged Analysis_ From Evocative to Comparative Visualizations of Urban Mobility).png"
+    },
+    {
+        "name": "Video Voto Matic",
+        "author": "Mike Richison",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "politics"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "a mashup of the legendary Roland TR 808 drum machine and the punchcard-style Votomatic voting booths ",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Monmouth University",
+        "Notes": "",
+        "images": "Video Voto Matic.png"
+    },
+    {
+        "name": "Microbiome Selfies",
+        "author": "François-Joseph Lapointe",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "color",
+            "shape/pattern",
+            "non-human creatures"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "physiological data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Université de Montréal",
+        "Notes": "",
+        "images": "Microbiome Selfies.png"
+    },
+    {
+        "name": "Mineral Machine Music",
+        "author": "Mitch Goodwin and Clement Fay",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "layout",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Mineral Machine Music.png"
+    },
+    {
+        "name": "Northern Polar Studies",
+        "author": "Tom Corby and Gavin Baily,",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "color",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Northern Polar Studies.png"
+    },
+    {
+        "name": " Shan Shui in the World: A Generative Approach to Traditional Chinese Landscape Painting",
+        "author": "Weili Shi",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "style"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Parsons School of Design",
+        "Notes": "",
+        "images": "Shan Shui in the World_ A Generative Approach to Traditional Chinese Landscape Painting.png"
+    },
+    {
+        "name": "Passim",
+        "author": "Paul Heinicker",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Office for National Statistics, UK",
+        "Notes": "The result of these reflections creates different world-views that represent self-aware images, in contrast to the usual biased techno-positivism of visualizations. These reflections demonstrate how notions of space directly influence recent geopolitical events (such as the refugee crisis), and how spatial theory can be used to rethink global political constellations. \n \n \n \n ",
+        "images": "Passim.png"
+    },
+    {
+        "name": "Shipmap.org",
+        "author": "Duncan Clark, Robin Houston, and Tristan Smith,",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "animation",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "business"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Shipmap.org.png"
+    },
+    {
+        "name": "Slicing the Aurora",
+        "author": "Sebastian Lay, Jo Vermeulen, Charles Perin, Eric Donovan, Raimund Dachselt, and Sheelagh Carpendale",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "animation",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Slicing the Aurora.png"
+    },
+    {
+        "name": "Triple Fluid Collision & Chaotic Escape",
+        "author": "Mark Stock",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "physics"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Triple Fluid Collision & Chaotic Escape.png"
+    },
+    {
+        "name": " A Body Has Many Members",
+        "author": "Kristoffer Ørum, Anders Bojen, Marcin Ignac, David Gauthier, and RasmusErik Voel Jensen",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "education"
+        ],
+        "意象": "organism  ",
+        "computation": "",
+        "特殊材料": "30 screens ",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "A Body Has Many Members.png"
+    },
+    {
+        "name": "A Noospheric Atlas of the United States",
+        "author": "Brett Ian Balogh",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "A Noospheric Atlas of the United States.png"
+    },
+    {
+        "name": " Fireflies",
+        "author": "Bon Adriel Aseniero, Charles Perin, Marjan Eggermont, and Sheelagh Carpendale",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "animation",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "health & well-being"
+        ],
+        "意象": "firefly",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Fireflies.png"
+    },
+    {
+        "name": "Novel City Maps",
+        "author": "Jan-Erik Stange",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "analogy",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "map",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "Urban Complexity Lab",
+        "Affiliation": "FH Potsdam",
+        "Notes": "",
+        "images": "Novel City Maps.png"
+    },
+    {
+        "name": "The Rhythm of Consumption",
+        "author": "Catarina Maçãs and Penousal Machado ",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "animation",
+            "color",
+            "shape/pattern",
+            "sound/music"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "business"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Rhythm of Consumption.png"
+    },
+    {
+        "name": "The Whispering Station: Test 1(Altering our Perception of Smartphones through Noise: Introducing the Affection Research Lab)",
+        "author": "Salvador Orara",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "paper",
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music"
+        ],
+        "designParadigm": [
+            "aministic design"
+        ],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Whispering Station_ Test 1(Altering our Perception of Smartphones through Noise_ Introducing the Affection Research Lab).png"
+    },
+    {
+        "name": " Glitch style visualization of disrupted neuronal connectivity in Parkinson’s disease",
+        "author": "Tim McGraw",
+        "time": [
+            "2016"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "glitch"
+        ],
+        "designParadigm": [
+            "glitch art"
+        ],
+        "whatPurpose": [
+            "analyze"
+        ],
+        "whereField": [
+            "health & well-being"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Purdue University",
+        "Notes": "",
+        "images": "Glitch style visualization of disrupted neuronal connectivity in Parkinson’s disease.png"
+    },
+    {
+        "name": "Fiber Optic Ocean",
+        "author": "Ozge Samanci and Adam Snyder.",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "light",
+            "metaphor",
+            "physical meterial",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "shark",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Fiber Optic Ocean.png"
+    },
+    {
+        "name": "Treepedia",
+        "author": "Wonyoung So, Carlo Ratti, Newsha Ghaeli, Xiaojiang Li, and Ian Seiferling",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage",
+            "advocate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Treepedia.png"
+    },
+    {
+        "name": "“The Sky is Falling...”",
+        "author": "Adriene Jeni",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+           
+        ],
+        "designTechnique": [
+            "situated context",
+            "physical meterial",
+            "body movement"
+        ],
+        "designParadigm": [
+            "data humanization"
+        ],
+        "whatPurpose": [
+            "witness"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "The Data Humanization Project re-asserts the connection of data to human scale and context. In contrast to a trend towards visualizing big data, each “data humanization” performance seeks to physically translate a single datapoint so that it can be more fully comprehended.",
+        "images": "“The Sky is Falling...”.png"
+    },
+    {
+        "name": "Forma Fluens",
+        "author": "Mauro Martino, Hendrik Strobelt, and Owen Cornec",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "montage"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Forma Fluens.png"
+    },
+    {
+        "name": "The Ghost in the Dandelion",
+        "author": "Scottie Chih-Chieh Huang and Yu-Chun Huang",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "synchronous generation",
+            "animation"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "dandelion",
+        "computation": "",
+        "特殊材料": "A biosenso,mirro",
+        "datatype": [
+            "physiological data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Ghost in the Dandelion.png"
+    },
+    {
+        "name": " Computed Curation",
+        "author": "Philipp Schmitt",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "non-human view",
+            "glitch"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Computed Curation.png"
+    },
+    {
+        "name": "KKK Redress Papers",
+        "author": "Tyler Starr",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "montage",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "KKK Redress Papers.png"
+    },
+    {
+        "name": "Interstellar: Cross-Scale Space-Scapes",
+        "author": "Clarissa Ribeiro, Mick Lorusso, and Herbert Rocha",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "AR/VR/MR",
+            "shape/pattern"
+        ],
+        "designParadigm": [
+            "parametric design"
+        ],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "astronomy"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Interstellar_ Cross-Scale Space-Scapes.png"
+    },
+    {
+        "name": "Spatial Magnetic Field Visualization",
+        "author": "Inhye Lee and Hyomin Kim",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "physics"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Spatial Magnetic Field Visualization.png"
+    },
+    {
+        "name": "Exploring Hidden Dimensions of the Rijksmuseum(Vijks: Hidden Dimensions)",
+        "author": "Pierre Amelot, John Hwong, and Kate McManus",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage",
+            "reveal"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "As Human-Computer Interaction designers, we wanted to utilize technology to make this ‘hidden’ art accessible to the general public and enable new ways of interacting with it.",
+        "images": "Exploring Hidden Dimensions of the Rijksmuseum(Vijks_ Hidden Dimensions).png"
+    },
+    {
+        "name": "Selected Projects（Accurat Design）",
+        "author": "Giorgia Lupi",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "color",
+            "shape/pattern",
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "M-Arch, PhD in Design",
+        "Affiliation": "Accurat",
+        "Notes": "",
+        "images": "Selected Projects（Accurat Design）.png"
+    },
+    {
+        "name": "Voyager",
+        "author": "Jeremy Muller",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            
+        ],
+        "designTechnique": [
+            "sound/music",
+            "participation/co-dusign"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "astronomy"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "piano,audience's things[phones, tables, and computers……]",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Voyager.png"
+    },
+    {
+        "name": "VOSIS",
+        "author": "Ryan McGee",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "shape/pattern"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data",
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Within the software no arbitrary visual to sound mappings are used. Rather, grayscale pixel values are scanned as audio waveforms and all filtering is applied to the imagery, rather than the sound. This method produces an objective, rather than subjective connection between visuals and the sounds they produce. As color is not of consideration, visual shape becomes most deterministic of sound timbre.",
+        "images": "VOSIS.png"
+    },
+    {
+        "name": "Less Ephemeral (Using the Interaction Geography Slicer to Visualize New York City Stop & Frisk)",
+        "author": "Ben Rydal Shapiro and Francis A. Pearman, II, Stop & Frisk\nMarco Pinter",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Less Ephemeral (Using the Interaction Geography Slicer to Visualize New York City Stop & Frisk).png"
+    },
+    {
+        "name": "3D Visualization of Genetic Networks",
+        "author": "Jennifer Weiler and Kat Fowler",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+      
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "3D Visualization of Genetic Networks.png"
+    },
+    {
+        "name": "Understanding People’s Interaction with Neural Sci-Art",
+        "author": "Manuela Garreton, Karina Hyland, and Denis Parra",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Understanding People’s Interaction with Neural Sci-Art.png"
+    },
+    {
+        "name": "Adapted Dorling Cartogram on Wage Inequality in Portugal",
+        "author": "Pedro Cruz",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "liquid/液体",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Adapted Dorling Cartogram on Wage Inequality in Portugal.png"
+    },
+    {
+        "name": "Visualizing Causes and Effects of California Sea Lion Unusual Mortality Event (UME)",
+        "author": "Yoon Chung Han; Praful Surve; Subin Kim; Josh Cuellar",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            
+            "color",
+            "metaphor",
+            "shape/pattern"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "engage"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "infinite",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Visualizing Causes and Effects of California Sea Lion Unusual Mortality Event (UME).png"
+    },
+    {
+        "name": "Herbariums of Ancient Chinese Family Trees",
+        "author": "Fan Xiang, Shunshan Zhu",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            
+            "physical meterial",
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "analyze"
+        ],
+        "whereField": [
+            "history"
+        ],
+        "意象": "jungles",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Herbariums of Ancient Chinese Family Trees.png"
+    },
+    {
+        "name": "WonderNet - Physicality of Networks",
+        "author": "Mauro Martino, Alice Grishchenko, Nima Dehmami, Hendrik Strobelt, Albert-László Barabási",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact",
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            
+            "physical meterial",
+            "shape/pattern"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "WonderNet - Physicality of Networks.png"
+    },
+    {
+        "name": "Art of the March - a Visual Archive of Protest Signs",
+        "author": "Alessandra Renzi, Dietmar Offenhuber, Nathan Felde, Christopher Pietsch, Siqi Zhu, Navarjun Singh Grewal",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "montage"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "archive"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Art of the March - a Visual Archive of Protest Signs.png"
+    },
+    {
+        "name": "Decomposition of Human Portraits",
+        "author": "Jieliang Luo, Sam Green",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "non-human view"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Decomposition of Human Portraits.png"
+    },
+    {
+        "name": "Flights to Rome",
+        "author": "Benedikt Groß, Stephan Bogner, Herwig Scherabon",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "algorithm/tool",
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Flights to Rome.png"
+    },
+    {
+        "name": "Artificial Senses",
+        "author": "Kim F. Albrecht",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "non-human view",
+            "shape/pattern",
+            "color",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "metaLAB",
+        "Affiliation": "Harvar",
+        "Notes": "",
+        "images": "Artificial Senses.png"
+    },
+    {
+        "name": "Globalmurmurs: The Phaistos Project — Forty-five Symbols",
+        "author": "Pascal Glissmann, Olivier Arcioli, Andreas Henrich",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show",
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [
+            "experimental media archeology"
+        ],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "daily life"
+        ],
+        "意象": "The Phaistos Disc",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Globalmurmurs_ The Phaistos Project — Forty-five Symbols.png"
+    },
+    {
+        "name": "Anthropocene Footprints",
+        "author": "Mieka West, Sheelagh Carpendale",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "footprint",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Anthropocene Footprints.png"
+    },
+    {
+        "name": "Simulated dendrochronology of immigrants and natural-borns in United States (1790-2016)[Process of simulating tree rings for immigration in the U.S.]",
+        "author": "Pedro M. Cruz, John Wihbey, Avni Ghael, Felipe Shibuya（Pedro Cruz, John Wihbey, Avni Ghael, Steve Costa, Ruan Chao, Felipe Shibuya）",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show",
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "tree rings",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Simulated dendrochronology of immigrants and natural-borns in United States (1790-2016)[Process of simulating tree rings for immigration in the U.S.].png"
+    },
+    {
+        "name": "Bloodie Writes an Anthem",
+        "author": "Rebecca Ruige Xu, Sean Hongsheng Zhai",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "shape/pattern",
+            "animation",
+            "color"
+        ],
+        "designParadigm": [
+            "abstract animation"
+        ],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Bloodie Writes an Anthem.png"
+    },
+    {
+        "name": "Designing Beautiful Evidence in an Era of Complexity. When Graphics reveal Global Social Changes and Issues",
+        "author": "David Bihanic",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "color",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal",
+            "provoke"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "Design department",
+        "Affiliation": "University of Paris 1 Pantheon- Sorbonne",
+        "Notes": "",
+        "images": "Designing Beautiful Evidence in an Era of Complexity. When Graphics reveal Global Social Changes and Issues.png"
+    },
+    {
+        "name": "Cycles and (A)symmetry | Exploring the Design of Shareable Personal Visualizations",
+        "author": "Charles Perin",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "color",
+            "personalization",
+            "layout"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "archive",
+            "socialize"
+        ],
+        "whereField": [
+            "daily life"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "University of Victoria",
+        "Notes": "",
+        "images": "Cycles and (A)symmetry _ Exploring the Design of Shareable Personal Visualizations.png"
+    },
+    {
+        "name": "Data Walking AP",
+        "author": "David Hunter",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "artifact",
+            "static image",
+            "event",
+            "interactive interface"
+        ],
+        "designTechnique": [
+            
+            "imagery/icon/photo",
+            "physical meterial",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "Arduinos, low-cost sensors, smartphones, 3D printing, laser cutting, digital textiles, Processing, the UnfoldingMaps library, UV printers, and digital embroidery machines.",
+        "datatype": [
+            "multi-modal data",
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Ravensbourne University London",
+        "Notes": "",
+        "images": "Data Walking AP.png"
+    },
+    {
+        "name": "Art, Affect and Color: Creating Engaging Expressive Scientific Visualizations",
+        "author": "Francesca Samsel, Lyn Bartram, Annie Bares",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "color",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Art, Affect and Color_ Creating Engaging Expressive Scientific Visualizations.png"
+    },
+    {
+        "name": "Shifted Maps: Revealing spatio-temporal topologies in movement data",
+        "author": "Heike Otten, Lennart Hildebrand, Till Nagel, Marian Dörk, Boris Müller",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "layout"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "analyze"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data",
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Shifted Maps_ Revealing spatio-temporal topologies in movement data.png"
+    },
+    {
+        "name": "Nostalgia: A Human-Machine Transliteration",
+        "author": "Raphael Arar",
+        "time": [
+            "2018"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "light",
+            "participation/co-dusign",
+            "human story",
+            "color",
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "looking at the world through rose-colored glasses \n \n \n ",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "IBM Research",
+        "Notes": "",
+        "images": "Nostalgia_ A Human-Machine Transliteration.png"
+    },
+    {
+        "name": "Machine Hallucination",
+        "author": "Refik Anadol, Julia Pryde Thompson, Alex Morosov. Nick Boss,",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "non-human view",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Machine Hallucination.png"
+    },
+    {
+        "name": "Infranet: A Geospatial Data-Driven Neuro-Evolutionary Artwork",
+        "author": "Graham Wakefield, Haru Ji",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "non-human view",
+            "montage"
+        ],
+        "designParadigm": [
+            "generative art",
+            "evolutionary algorithm",
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "witness"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "At its heart is the speculative proposition of the data of a city as a habitat for new forms of life. \n ",
+        "images": "Infranet_ A Geospatial Data-Driven Neuro-Evolutionary Artwork.png"
+    },
+    {
+        "name": "The Space Between Characters: Trees of Translation",
+        "author": "Ignacio Pérez-Messina, Ilana Levin, Simón López Trujillo",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "tree",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Space Between Characters_ Trees of Translation.png"
+    },
+    {
+        "name": "#home",
+        "author": "Joel Ong",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "participation/co-dusign",
+            
+            "physical meterial",
+            "human story"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "York University",
+        "Notes": "",
+        "images": "home1.png"
+    },
+    {
+        "name": "Arctic LiDAR",
+        "author": "Daniele Profeta",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "large immersive screen",
+            "AR/VR/MR",
+            "human story",
+            "non-human view",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "experiment"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Syracuse University",
+        "Notes": "",
+        "images": "Arctic LiDAR.png"
+    },
+    {
+        "name": "Eyes",
+        "author": "Yoon Chung Han, Praful Surve",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "animation",
+            "imagery/icon/photo",
+            "physical meterial",
+            
+            "personalization"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Multi-sensory interpretations of the iris data art can lead a new oppor- tunity to reveal users’ narratives and create their own “sonic signature”, which will be able to trigger a new way of interaction in the fields of art and science.",
+        "images": "Eyes.png"
+    },
+    {
+        "name": "Cartographers of North Korea",
+        "author": "Wonyoung So, Fábio Duarte",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "human story",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "analyze"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Cartographers of North Korea.png"
+    },
+    {
+        "name": "OceanForestAir",
+        "author": "Mieka West",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "color",
+            "metaphor"
+        ],
+        "designParadigm": [
+            "data physicalization"
+        ],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "tighten",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "University of Calgary",
+        "Notes": "",
+        "images": "OceanForestAir.png"
+    },
+    {
+        "name": "Distinction Machine",
+        "author": "Kim F. Albrecht",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "color",
+            "shape/pattern",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "metaLAB, Harvard, Cambridge, Europäische Medienwissenschaft and Universität Potsdam",
+        "Notes": "",
+        "images": "Distinction Machine.png"
+    },
+    {
+        "name": "Watchers",
+        "author": "Benjamin Bogart",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "non-human view",
+            "imagery/icon/photo",
+            "montage"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Watchers.png"
+    },
+    {
+        "name": "Fog of Finance: Visualising Offshore and the Aesthetics of Uncertainty",
+        "author": "Michele Mauri, Ángeles Briones, Jonathan Gray, Daniel Haberly, Chris Anderson, Tommaso Venturini, Michele Invernizzi",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment",
+            "inform"
+        ],
+        "whereField": [
+            "business"
+        ],
+        "意象": "fog",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Fog of Finance_ Visualising Offshore and the Aesthetics of Uncertainty.png"
+    },
+    {
+        "name": "Data Manifestation: Merging the Human World and Global Climate Change",
+        "author": "Karin von Ompteda",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "installation",
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "metaphor",
+            "situated context"
+        ],
+        "designParadigm": [
+            "data physicalization"
+        ],
+        "whatPurpose": [
+            "engage",
+            "inform"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": " a designer/researcher/educator",
+        "Background": "",
+        "Affiliation": "OCAD University",
+        "Notes": "",
+        "images": "Data Manifestation_ Merging the Human World and Global Climate Change.png"
+    },
+    {
+        "name": "Data Brushes: Interactive Style Transfer for Data Art ",
+        "author": "Mahika Dubey, Jasmine Tan Otto, Angus G. Forbes",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "style"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "Graduate Researcher； a visualization developer；an Associate Professor ",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Data Brushes_ Interactive Style Transfer for Data Art .png"
+    },
+    {
+        "name": "Embroidering Translations between Digital Art and Design for a Sustainable Environment ",
+        "author": "Rodrigo Rosales González, Ana Carolina Robles Salvador",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "body movement",
+            "participation/co-dusign",
+            "color",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [
+            "digital art"
+        ],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "Visualización en la sociocomplejidad. Visualization on Sociocomplexity；a Graphic Designer and Master in Sciences and Arts for Design",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Embroidering Translations between Digital Art and Design for a Sustainable Environment .png"
+    },
+    {
+        "name": "Mapping The Prelude: A Visualisation of Wordsworth's Poetry",
+        "author": "Andrew Richardson",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "typography",
+            "color",
+            "GUI interaction"
+        ],
+        "designParadigm": [
+            "digital humanism"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data",
+            "geo-spatial data"
+        ],
+        "个性化身份": "a senior lecturer",
+        "Background": "",
+        "Affiliation": "Northumbria University",
+        "Notes": "",
+        "images": "Mapping The Prelude_ A Visualisation of Wordsworth's Poetry.png"
+    },
+    {
+        "name": "Dustmark and Ozone Tattoos: Autographic displays of air pollution",
+        "author": "Dietmar Offenhuber",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "static image",
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "non-human creatures",
+            "situated context"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "Associate Professor and Chair of the department of Art + Design at Northeastern University",
+        "Background": "",
+        "Affiliation": "Northeastern University",
+        "Notes": "",
+        "images": "Dustmark and Ozone Tattoos_ Autographic displays of air pollution.png"
+    },
+    {
+        "name": "Scientific Visualization: Enriching Vocabulary via the Human Hand",
+        "author": "Francesca Samsel, Seth A. Johnson, Annie Bares, Daniel F. Keefe",
+        "time": [
+            "2019"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "algorithm/tool",
+            "artifact"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "color",
+            "physical meterial",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "an artist, primarily a printmaker and mural paint； Computer Science graduate；a graduate research assistant；Professor of Computer Science",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Scientific Visualization_ Enriching Vocabulary via the Human Hand.png"
+    },
+    {
+        "name": "Cacophonic Choir",
+        "author": "Hannah E. Wolfe*, Şölen Kıratlı* and Alex Bundy",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "human story",
+            "light",
+            "body movement"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Cacophonic Choir.png"
+    },
+    {
+        "name": "Cangjie",
+        "author": "Donghao Ren and Weidi Zhang",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "typography",
+            "imagery/icon/photo",
+            "synchronous generation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data",
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Cangjie.png"
+    },
+    {
+        "name": "Climate Continuum",
+        "author": "Brian Barr, Taekyeom Lee and Matthew Wettergreen",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "color",
+            "temperature"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "the piece blurs the\n lines between sculpture and performance, object and action. \n \n \n ",
+        "images": "Climate Continuum.png"
+    },
+    {
+        "name": "Electo Electro",
+        "author": "Mike Richison",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "GUI interaction",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "politics"
+        ],
+        "意象": "polling station",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Monmouth University",
+        "Notes": "",
+        "images": "Electo Electro.png"
+    },
+    {
+        "name": "Omana's Seven Days in April",
+        "author": "Rebecca Ruige Xu and Sean Hongsheng Zhai Rebecca Ruige Xu (rebeccaxu.com)",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "style",
+            "human story"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Omana's Seven Days in April.png"
+    },
+    {
+        "name": "The Academia is Tied in Knots",
+        "author": "Tommaso Elli, Adam Bradley, Christopher Collins, Uta Hinrichs, Zachary Hills and Karen Kelsky",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show",
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "human story",
+            "sound/music",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "empower"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "knot",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Academia is Tied in Knots.png"
+    },
+    {
+        "name": "The Gaze: The Machine without Eyes",
+        "author": "Ha Na Lee and James Hughes http://hanalee.me/",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "human story",
+            "non-human view"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Gaze_ The Machine without Eyes.png"
+    },
+    {
+        "name": "Uncertain Facing",
+        "author": "Sihwa Park",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "montage",
+            "non-human view",
+            "sound/music",
+            "participation/co-dusign"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke",
+            "engage"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "Media Arts and Technology",
+        "Affiliation": "University of California, Santa Barbara",
+        "Notes": "",
+        "images": "Uncertain Facing.png"
+    },
+    {
+        "name": "Unfinished Farewell",
+        "author": "Jiabao Li",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "human story",
+            "imagery/icon/photo",
+            
+            "animation",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "commemorate"
+        ],
+        "whereField": [
+            "health & well-being"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data",
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "Apple",
+        "Notes": "",
+        "images": "Unfinished Farewell.png"
+    },
+    {
+        "name": "Visum: beyond the physical eye",
+        "author": "Lena Mathew",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "shape/pattern",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "University of California, Santa Barbara",
+        "Notes": "",
+        "images": "Visum_ beyond the physical eye.png"
+    },
+    {
+        "name": "Volume of Voids",
+        "author": "Weidi Zhang",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "shape/pattern"
+        ],
+        "designParadigm": [
+            "algorithmic art",
+            "generative artifact"
+        ],
+        "whatPurpose": [
+            "criticize",
+            "reveal"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "University of California, Santa Barbara",
+        "Notes": "",
+        "images": "Volume of Voids.png"
+    },
+    {
+        "name": "Printmaking, Puzzles, and Studio Closets: Using Artistic Metaphors to Reimagine the User Interface for Designing Immersive Visualizations",
+        "author": "Bridger Herman, Francesca Samsel, Annie Bares, Seth A Johnson, Dr Greg Abram, Daniel F. Keefe",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "printmaking",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Printmaking, Puzzles, and Studio Closets_ Using Artistic Metaphors to Reimagine the User Interface for Designing Immersive Visualizations.png"
+    },
+    {
+        "name": "Tsuga Convictio: Visualizing for the ecological, feminine, and embodied",
+        "author": "Cathryn A Ploehn, Molly Wright, Daragh Byrne",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "gesture",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize",
+            "experiment"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "forest",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "D’Ignazio and Klein argue in their book, Data Feminism, that our current practices of data science can lead to the “silencing, extraction, monetization, or invisibility” of people (or other living things) that the data represent [9]. In response to this violence, they assert that we need to make visible those who are creating the data, and those who are represented by the data. In other words, we need to “bring back the bodies.” \n \n \n ",
+        "images": "Tsuga Convictio_ Visualizing for the ecological, feminine, and embodied.png"
+    },
+    {
+        "name": "HeartBees: Visualizing Crowd Affects",
+        "author": "Chao Ying Qin, Marios Constantinides, Luca Maria Aiello, Daniele Quercia",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "animation",
+            "color",
+            "shape/pattern"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "socialize"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "（鸟类、蜜蜂等）集群模拟行为",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "physiological data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "HeartBees_ Visualizing Crowd Affects.png"
+    },
+    {
+        "name": "Leander: Navigating musical possibility space through color data sonification ",
+        "author": "Lawton Hall",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "art show",
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "color",
+            "sound/music"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "Nature-oriented sound",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Leander_ Navigating musical possibility space through color data sonification .png"
+    },
+    {
+        "name": "Not Suitable for Breathing",
+        "author": "Zhouyang Lu",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "imagery/icon/photo",
+            "animation",
+            "large immersive screen",
+            "metaphor"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "health & well-being"
+        ],
+        "意象": "breathe",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Not Suitable for Breathing.png"
+    },
+    {
+        "name": "Invisible Lives",
+        "author": "Hye Yeon Nam, Zak Berkowitz",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "human story",
+            "robot"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Since these robots resemble parts of the human body, yet are controlled by computational and mechanical systems, Invisible Lives reveals the different meaningful and reflective layers between human and machine. \n \n \n ",
+        "images": "Invisible Lives.png"
+    },
+    {
+        "name": "Roads in You",
+        "author": "Yoon C Han",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface",
+            "artifact"
+        ],
+        "designTechnique": [
+            "personalization",
+            
+            "analogy"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "physiological data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Roads in You.png"
+    },
+    {
+        "name": "Invisible Pixel: Short Video Narratives from a Machine Perspective",
+        "author": "Junlin Zhu, Wenxuan Zhao, Yingjing Duan, Juanjuan Long",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "non-human view",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal",
+            "experiment"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Invisible Pixel_ Short Video Narratives from a Machine Perspective.png"
+    },
+    {
+        "name": "FaceType: Expressing Our Spoken Expression ",
+        "author": "Kevin Maher, Fan Xiang, Liang Zhi",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "typography",
+            "synchronous generation",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "FaceType_ Expressing Our Spoken Expression .png"
+    },
+    {
+        "name": "Decoding and Encoding of Tibetan",
+        "author": "Anqi Song, Xintong Song, Yuhao Chen, Guangyu Luo, Qiansheng Li",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "human story",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "advocate",
+            "inform"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "brain waves and muscle changes",
+        "datatype": [
+            "physiological data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Decoding and Encoding of Tibetan.png"
+    },
+    {
+        "name": "Spectrographies: Decomposition of Music into Light",
+        "author": "Baltazar Pérez, Ilana Levin",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "sound/music"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Spectrographies_ Decomposition of Music into Light.png"
+    },
+    {
+        "name": "Glacier's Lament",
+        "author": "Jiabao Li",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show",
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "color",
+            "sound/music",
+            "body movement",
+            "situated context"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage",
+            "criticize"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "玻璃瓶掉落-->自然的破坏",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "The goal is that in synthesizing these two realities (the factual and the felt), the work can reach audiences beyond those directly impacted by the loss of glaciers before it is too late. At the same time, it is a love letter to an already diminished nature and mourning of that loss. \n \n \n ",
+        "images": "Glacier's Lament.png"
+    },
+    {
+        "name": "Side-view States",
+        "author": "Emily Fuhrman",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image",
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "shape/pattern"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment",
+            "criticize"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Side-view States.png"
+    },
+    {
+        "name": "Surface Tension",
+        "author": "Caitlin & Misha",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "animation",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Water is often depicted as blue and beautiful, and the project problematizes this metaphor by delving into the human relationship to water and how we impact the water we need to live. \n \n \n ",
+        "images": "Surface Tension.png"
+    },
+    {
+        "name": "untitled interspecies umwelten",
+        "author": "Joel Ong",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface",
+            "installation"
+        ],
+        "designTechnique": [
+            "human story",
+            "animation"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Kate Crawford speaks against this oversimplification of intelligence as an elision of the human as embodied, relational and set within wider \n \n \n \necologies. \n \n \n ",
+        "images": "untitled interspecies umwelten.png"
+    },
+    {
+        "name": "Visualizing Life in the Deep: A Creative Pipeline for Data-Driven Animations to Facilitate Marine Mammal Research, Outreach, and Conservation (Paper)",
+        "author": "Jessica Marielle Kendall-Bar, Nicolas Kendall-Bar, Angus G. Forbes, Gitte McDonald, Paul J. Ponganis Scripps, Cassondra Williams, Allyson Hindle, Holger Klinck, Markus Horning, David Wiley, Ari S. Friedlaender, Roxanne S. Beltran, Daniel P. Costa, Terrie Williams",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "animation",
+            "imagery/icon/photo",
+            "sound/music",
+            "human story"
+        ],
+        "designParadigm": [
+            "data sonification"
+        ],
+        "whatPurpose": [
+            "analyze",
+            "inform"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "physiological data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Visualizing Life in the Deep_ A Creative Pipeline for Data-Driven Animations to Facilitate Marine Mammal Research, Outreach, and Conservation (Paper).png"
+    },
+    {
+        "name": "Creating Meaningful Connections Through COVID-19 Data Manifestation (Paper)",
+        "author": "Karin von Ompteda",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "human story",
+            "physical meterial",
+            "color",
+            "metaphor"
+        ],
+        "designParadigm": [
+            "data manifestation"
+        ],
+        "whatPurpose": [
+            "provoke",
+            "engage"
+        ],
+        "whereField": [
+            "health & well-being"
+        ],
+        "意象": "mask，earth made of yarn",
+        "computation": "",
+        "特殊材料": "yarn，masks,cardboard",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Creating Meaningful Connections Through COVID-19 Data Manifestation (Paper).png"
+    },
+    {
+        "name": "Deep Connection: Making Virtual Reality Artworks with Medical Scan Data (Paper)",
+        "author": "Marilene Oliver, Gary Joynes Joynes, Dr. Kumaradevan Punithakumar, Peter Seres",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "AR/VR/MR",
+            "touch/manipulate",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "socialize"
+        ],
+        "whereField": [
+            "health & well-being"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "VR，sculptures with sensors",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Deep Connection_ Making Virtual Reality Artworks with Medical Scan Data (Paper).png"
+    },
+    {
+        "name": "Affective Palettes for Scientific Visualization: Grounding Environmental Data in the Natural World (Pictorial)",
+        "author": "Francesca Samsel, Stephanie Zeller, Daniel F. Keefe, Greg Abram",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "color",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "equip"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Affective Palettes for Scientific Visualization_ Grounding Environmental Data in the Natural World (Pictorial).png"
+    },
+    {
+        "name": "Wanderlust: 3D Impressionism in Human Journeys (Pictorial)",
+        "author": "Guangyu Du, Lei Dong Peking, Fábio Duarte, Carlo Ratti",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "style",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Wanderlust_ 3D Impressionism in Human Journeys (Pictorial).png"
+    },
+    {
+        "name": "DaRt: Generative Art using Dimensionality Reduction Algorithms (Pictorial)",
+        "author": "Rene Cutura TU Wien, Katrin Angerbauer, Frank Heyen, Natalie Hube, Michael Sedlmair",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "static image",
+            "algorithm/tool"
+        ],
+        "designTechnique": [
+            "non-human view",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "DaRt_ Generative Art using Dimensionality Reduction Algorithms (Pictorial).png"
+    },
+    {
+        "name": "Explore Mindfulness without Deflection: A Data Art Based on the Books of Songs (Pictorial)",
+        "author": "Yifang Wang, Yifan Cao, Junxiu Tang, Yang Wang, Huamin Qu, Yingcai Wu",
+        "time": [
+            "2021"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "GUI interaction",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "analyze"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Explore Mindfulness without Deflection_ A Data Art Based on the Books of Songs (Pictorial).png"
+    },
+    {
+        "name": "Tangled Tracks",
+        "author": "Luiz Ludwig, Doris Kosminsky",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "color",
+            "physical meterial",
+            "participation/co-dusign"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Tangled Tracks.png"
+    },
+    {
+        "name": "#MeToo Anti-Network",
+        "author": "Kim Albrecht, Catherine D'Ignazio, Nicole Martin, Matthew Battles",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "typography",
+            "human story",
+            "shape/pattern",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "advocate"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "MeToo Anti-Network.png"
+    },
+    {
+        "name": "Diversity traces: an interactive lens on multi-racial families in America",
+        "author": "Pedro Cruz",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "GUI interaction",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "chromosome",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Diversity traces_ an interactive lens on multi-racial families in America.png"
+    },
+    {
+        "name": "at the pump",
+        "author": "Joseph A. Insley",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "montage"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "at the pump.png"
+    },
+    {
+        "name": "Beyond Human Perception",
+        "author": "Maria Castellanos and Alberto Valverde",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            
+            "installation"
+        ],
+        "designTechnique": [
+            "non-human creatures",
+            "animation",
+            "sound/music"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "analyze",
+            "reveal"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "physiological data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Beyond Human Perception.png"
+    },
+    {
+        "name": "QUARANTILES. Archiving expressive digital places from Instagram during the COVID-19 pandemic",
+        "author": "Andrea Benedetti;Giacomo Flaim;Beatrice Gobbo",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show",
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "montage"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "archive"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "QUARANTILES. Archiving expressive digital places from Instagram during the COVID-19 pandemic.png"
+    },
+    {
+        "name": "NeuroKnitting Beethoven: visualizing emotional state through the knitting process",
+        "author": "Varvara Guljajeva, Mar Canet Sola",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+         
+        ],
+        "designTechnique": [
+            "synchronous generation",
+            "physical meterial",
+            "body movement"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "commemorate",
+            "experiment"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "physiological data",
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "NeuroKnitting Beethoven_ visualizing emotional state through the knitting process.png"
+    },
+    {
+        "name": "SoftVoss",
+        "author": "Yin Yu",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "sound/music"
+        ],
+        "designParadigm": [
+            "wearable art"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data",
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "SoftVoss.png"
+    },
+    {
+        "name": "OctoAnemone",
+        "author": "Yin Yu",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "gesture",
+            "metaphor",
+            "shape/pattern",
+            "color"
+        ],
+        "designParadigm": [
+            "speculative design"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "sea",
+        "computation": "",
+        "特殊材料": "Silicone rubber, metal structure, camera, and electronics.",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "OctoAnemone.png"
+    },
+    {
+        "name": "RAY",
+        "author": "Weidi Zhang",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "light",
+            "imagery/icon/photo",
+            "synchronous generation",
+            "non-human view"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage",
+            "criticize"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data",
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "RAY.png"
+    },
+    {
+        "name": "Under the Green: Visual data storytelling the process of urban CO2 neutralization by forests",
+        "author": "Linqi Wang, Fengzhou Liang, Fang Liu, Boai Yang, Junyan Lv",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "advocate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "plants",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Under the Green_ Visual data storytelling the process of urban CO2 neutralization by forests.png"
+    },
+    {
+        "name": "Presentation of Self in Machine Life",
+        "author": "Ray LC, Mizuho Kappa, Lui Lok Marco",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+           
+        ],
+        "designTechnique": [
+            "human story",
+            "body movement"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "witness",
+            "socialize"
+        ],
+        "whereField": [
+            "computer science"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": " a robot arm",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Presentation of Self in Machine Life.png"
+    },
+    {
+        "name": "Sifting Strands : Winter and Spring",
+        "author": "Oskar Elek;Weston Mossman;Angus G. Forbes",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "algorithm/tool"
+            
+        ],
+        "designTechnique": [
+            "synchronous generation",
+            "sound/music",
+            "style"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "reveal",
+            "experiment"
+        ],
+        "whereField": [
+            "astronomy"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "We believe this work in its own way demon- strates that artistic exploration and scientific research can inform each other, and participa- tory artistic presentations can make scientific research more accessible and interesting to the general public, with the added benefit of strengthening local art communities. \n \n \n ",
+        "images": "Sifting Strands _ Winter and Spring.png"
+    },
+    {
+        "name": "Molecular Planets",
+        "author": "Christoph Müller, Karsten Schatz, Florian Frieß, Michael Krone",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "art show"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "metaphor",
+            
+            "color",
+            "shape/pattern",
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "physics"
+        ],
+        "意象": "planet",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Molecular Planets.png"
+    },
+    {
+        "name": "ESSYS* Sharing #UC: An Emotion-driven Audiovisual Installation",
+        "author": "Sérgio M. Rebelo;Mariana Seiça;Pedro Martins;João Bicker;Penousal Machado",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "color",
+            "sound/music",
+            "typography"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "a collection of posters of multiple sizes and formats generated previously, together with one television displaying the online system running and serving to speakers the ambient audio.",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "ESSYS_ Sharing _UC_ An Emotion-driven Audiovisual Installation.png"
+    },
+    {
+        "name": "Affective, Hand-Sculpted Glyph Forms for Engaging and Expressive Scientific Visualization",
+        "author": "Stephanie Zeller;Francesca Samsel;Lyn Bartram",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "paper"
+        ],
+        "designCategory": [
+            "artifact",
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "imagery/icon/photo",
+            "color",
+            "shape/pattern"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "engage"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Affective, Hand-Sculpted Glyph Forms for Engaging and Expressive Scientific Visualization.png"
+    },
+    {
+        "name": "SKYGLYPHS: REFLECTIONS on the DESIGN of a DELIGHTFUL VISUALIZATION",
+        "author": "Bon Adriel Aseniero, Sheelagh Carpendale, George Fitzmaurice, Justin Matejka",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "animation",
+            "shape/pattern",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "business"
+        ],
+        "意象": "animated balloons",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "SKYGLYPHS_ REFLECTIONS on the DESIGN of a DELIGHTFUL VISUALIZATION.png"
+    },
+    {
+        "name": "Supersynthesis: A Communal Synthesis",
+        "author": "Amay Kataria",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "light",
+            "sound/music",
+            "synchronous generation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "not specified"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "a raspberry pi connected with three eight channel relays that control 24 LED lights",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Supersynthesis_ A Communal Synthesis.png"
+    },
+    {
+        "name": "Shifting Winds: Gendered Structures Of Academic Mentorship",
+        "author": "Jiabao Li;Houjiang Liu;Jilie Zeng;Di Wu;Ying Ding;Alec McGail",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "metaphor",
+            "color",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize",
+            "empower"
+        ],
+        "whereField": [
+            "education"
+        ],
+        "意象": "tree",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Shifting Winds_ Gendered Structures Of Academic Mentorship.png"
+    },
+    {
+        "name": "Wind of Bamboo: A Chinese Handwriting Mingling Interactive Installation Based on Human-Ai Collaborative Font Design",
+        "author": "Zhen Zeng;Jie Wang;Nan He",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "typography",
+            "color",
+            "imagery/icon/photo",
+            "large immersive screen",
+            "style",
+            "sound/music"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "advocate",
+            "engage"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Wind of Bamboo_ A Chinese Handwriting Mingling Interactive Installation Based on Human-Ai Collaborative Font Design.png"
+    },
+    {
+        "name": "The Memory Of Street Hong Kong: History, Culture, Memory And Post-Humanism",
+        "author": "Liu Chunxi Tracy;Luk Wai Lam Noah",
+        "time": [
+            "2022"
+        ],
+        "artPaper": [
+            "pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "event",
+            "artifact"
+        ],
+        "designTechnique": [
+            
+            "non-human creatures",
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Memory Of Street Hong Kong_ History, Culture, Memory And Post-Humanism.png"
+    }
+]

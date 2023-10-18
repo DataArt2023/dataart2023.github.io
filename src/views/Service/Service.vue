@@ -147,7 +147,8 @@
          <ul class="cards" >
              <li class="card" v-for="(item, index) in filteredData" :key="index" >
              <!-- <img :src="item.img" alt="img"  style="aspect-ratio: 16 / 12;"> -->
-             <img v-if="item.images" :src="require('@/assets/images/each/'+item.images )"  alt="img"   style="aspect-ratio: 16 / 9;"> 
+             <img v-if="item.isImageLoaded" :src="require('@/assets/images/each/'+item.images )"  alt="img"   style="aspect-ratio: 16 / 9;"> 
+             <img v-else alt="LOADING" style="aspect-ratio: 16 / 9;">
              <p>
                 <div class="text-container">
                     <div class="left-block"><span style="text-align: left;font-size: 1.2rem;font-weight: bolder;">{{ item.name  }}</span>
@@ -341,22 +342,34 @@
                  axios
                    .get(jsonFilePath)
                    .then((response) => {
-                    
-                     console.log( response.data[0])
-                     console.log(this.jsonData)
                      this.jsonData = response.data;
+                     this.jsonData.forEach(item => {
+                        item.isImageLoaded = false; // 默认值为 false
+                    });
                      this.filteredData = this.jsonData;
-                     // this.jsonData=[response.data]
-                     console.log(this.jsonData)
-                     
+                     this.loadImages(); 
                    })
                    .catch((error) => {
                      console.error('Error reading local JSON file:', error);
                    });
                    
+                   
                  
              },
+//              mounted() {
+   
+//   },
              methods: {
+                loadImages() {
+      this.jsonData.forEach(item => {
+        const img = new Image();
+        img.onload = () => {
+          item.isImageLoaded = true; // 图片加载完成后设置isImageLoaded为true
+        };
+        // console.log(item)
+        img.src = require('@/assets/images/each/' + item.images);
+      });
+    },
                 isSelected(filterType, index) {
                     // 根据filterType和index检查按钮是否选中
                     return this.selectedFilters[filterType].includes(index);

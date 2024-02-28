@@ -6,8 +6,8 @@
             "2013"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
@@ -15,8 +15,8 @@
         "designTechnique": [
             "animation",
             "sound/music",
-            "light",
-            "synchronous generation"
+            "light/optics",
+            "bionics"
         ],
         "designParadigm": [
             "generative art",
@@ -32,13 +32,13 @@
         ],
         "意象": "",
         "computation": "",
-        "特殊材料": "",
+        "特殊材料": "hardware, software",
         "datatype": [
             "real-time data"
         ],
-        "个性化身份": "an artist, theorist, and curator",
-        "Background": "School of Architecture",
-        "Affiliation": "Texas A&M University ",
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "where the computer seems to directly create art in a hands-off manner. This kind of art is typically referred to as generative art...\nGenerative art refers to any art practice where the artist uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art. [1] \n \n \n  \n \n \n ",
         "images": "XEPA.png"
     },
@@ -49,16 +49,17 @@
             "2013"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "light",
+            "light/optics",
             "color",
             "physical meterial",
-            "touch/manipulate"
+            "tangible interface/touch",
+            "metaphor/analogy"
         ],
         "designParadigm": [
             "ambient display"
@@ -86,16 +87,20 @@
             "2013"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "interactive interface"
+            "interactive interface",
+            "installation",
+            "static image/print"
         ],
         "designTechnique": [
             "color",
             "sound/music",
             "large immersive screen",
-            "synchronous generation"
+            "synchronous/responsive generation",
+            "GUI interaction",
+            "shape/pattern"
         ],
         "designParadigm": [
             "data sonification"
@@ -104,7 +109,7 @@
             "experiment"
         ],
         "whereField": [
-            "not specified"
+            "education"
         ],
         "意象": "",
         "computation": "",
@@ -115,7 +120,7 @@
         "个性化身份": "",
         "Background": "",
         "Affiliation": "",
-        "Notes": "Data is one of the most important materials of her research. Her general body of work focuses on redefining, reformatting, and representing data and how human perception reacts to it.\nher aim is to push people away from paradigmatic thinking.",
+        "Notes": "",
         "images": "Cloud Bridge.png"
     },
     {
@@ -125,11 +130,11 @@
             "2013"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "typography"
@@ -148,9 +153,9 @@
         "computation": "",
         "特殊材料": "",
         "datatype": [],
-        "个性化身份": "typographer, designer and educator",
-        "Background": "School of Art Institute of Chicago",
-        "Affiliation": "Chicago State University",
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "I use letters, words phrases, and sentences to explore innovative typographic forms with basic visual elements. They convey diversified visual messages inspired by nature, addressing environmental issues such as green design, healing through arts, exploring philosophical and religious inter- pretation regarding life, death and love.",
         "images": "TYPE+CODE II【2007-2012 Renewed】.png"
     },
@@ -161,8 +166,8 @@
             "2013"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface",
@@ -171,7 +176,7 @@
         "designTechnique": [
             "animation",
             "GUI interaction",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -187,8 +192,8 @@
             "real-time data"
         ],
         "个性化身份": "",
-        "Background": "Department of Computer Science ",
-        "Affiliation": "University of California, Santa Barbara",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "TweetProbe.png"
     },
@@ -199,7 +204,7 @@
             "2013"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -221,9 +226,9 @@
         "computation": "",
         "特殊材料": "",
         "datatype": [],
-        "个性化身份": "designer, educator",
-        "Background": "Computer Graphic Design",
-        "Affiliation": "University of Waikato \n ",
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "VICISS.png"
     },
@@ -234,13 +239,13 @@
             "2013"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -267,15 +272,14 @@
             "2013"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
-            "metaphor",
-            
+            "metaphor/analogy",
             "shape/pattern"
         ],
         "designParadigm": [
@@ -305,14 +309,14 @@
             "2013"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "video"
         ],
         "designTechnique": [
-            "montage",
+            "montage/collage",
             "imagery/icon/photo"
         ],
         "designParadigm": [],
@@ -327,9 +331,9 @@
         "computation": "",
         "特殊材料": "",
         "datatype": [],
-        "个性化身份": "researcher and artist",
-        "Background": "Bachelor of Science in Design from University of Cincinnati, Department of Design, Architecture, Art and Planning, and MFA from Design Media Arts, UCLA. Currently she is working towards a Doctorate in Media Arts and Technology at UC Santa Barbara",
-        "Affiliation": "UCLA and Otis College of Art and Design",
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "This water-focused body of work also allows me to merge my interests in studying time and scale with my concern in troubled and impaired bodies of water and the water rights of wildlife in order to use my art beyond aesthetic inquiries and as social action...What I am specifically aiming for in my general body of work is this last point: being able to supersede oneself through perception. Subjectivity resides beyond the point where proof exists. ",
         "images": "Salton Sea Revisited.png"
     },
@@ -340,18 +344,18 @@
             "2013"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "synchronous generation",
+            "synchronous/responsive generation",
             "sound/music",
             "shape/pattern",
             "large immersive screen",
-            "participation/co-dusign"
+            "participation/co-design"
         ],
         "designParadigm": [
             "data sonification"
@@ -382,7 +386,7 @@
             "2013"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -394,7 +398,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "not specified"
@@ -418,13 +422,13 @@
             "2014"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
-            
+            "shape/pattern"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -450,7 +454,7 @@
             "2014"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -488,12 +492,12 @@
             "2014"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "video",
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "animation"
@@ -524,16 +528,15 @@
             "2014"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "participation/co-dusign",
             "AR/VR/MR",
-            "synchronous generation",
+            "synchronous/responsive generation",
             "gesture",
             "animation"
         ],
@@ -561,15 +564,16 @@
             "2014"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "artifact"
+            "artifact",
+            "event"
         ],
         "designTechnique": [
             "smell",
-            "participation/co-dusign"
+            "participation/co-design"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -592,26 +596,26 @@
         "images": "Smellmap.png"
     },
     {
-        "name": "Flows",
+        "name": "Flows: Manifesting CO2 Emissions",
         "author": "Duncan Shingleton and Mark Kobine",
         "time": [
             "2014"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "synchronous generation",
-            "light",
-            "animation"
+            "synchronous/responsive generation",
+            "light/optics",
+            " style"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "inform"
+            "reveal"
         ],
         "whereField": [
             "environmental sciences & ecology"
@@ -626,7 +630,7 @@
         "Background": "",
         "Affiliation": "",
         "Notes": "explores Manuel Castell’s theory of the Space of Flows, proposed in The Rise of the Network Society (1996), which relates to network society and technologies role in a new type of space. \n \n \n ",
-        "images": "Flows.png"
+        "images": "Flows_ Manifesting CO2 Emissions.png"
     },
     {
         "name": "Point Cloud / Application of Gestalt Principles to Multimodal Data Representation",
@@ -635,8 +639,8 @@
             "2014"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -675,7 +679,7 @@
             "2014"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface",
@@ -683,11 +687,12 @@
         ],
         "designTechnique": [
             "gesture",
-            "animation"
+            "animation",
+            "style"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip",
+            "enable",
             "witness"
         ],
         "whereField": [
@@ -701,7 +706,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "University of Illinois",
+        "Affiliation": "",
         "Notes": "",
         "images": "Visualizing Expressiveness in Conducting Gestures.png"
     },
@@ -712,15 +717,15 @@
             "2014"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "light",
+            "light/optics",
             "robot",
-            "non-human creatures"
+            "plants"
         ],
         "designParadigm": [
             "speculative design"
@@ -750,7 +755,7 @@
             "2014"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -787,8 +792,8 @@
             "2014"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "video",
@@ -796,7 +801,7 @@
         ],
         "designTechnique": [
             "animation",
-            "montage"
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -813,7 +818,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "University of California, Santa Barbara",
+        "Affiliation": "",
         "Notes": "",
         "images": "Automatically Generating Animations From Escher’s Images.png"
     },
@@ -824,19 +829,19 @@
             "2014"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            
+            "performance"
         ],
         "designTechnique": [
             "AR/VR/MR",
-            "human story",
+            "story/plot",
             "animation",
             "large immersive screen",
             "sound/music",
-            "light",
+            "light/optics",
             "color"
         ],
         "designParadigm": [
@@ -865,10 +870,10 @@
             "2014"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "color",
@@ -888,7 +893,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "The University of Waikato",
+        "Affiliation": "",
         "Notes": "",
         "images": "Psycolorgy.png"
     },
@@ -899,7 +904,7 @@
             "2014"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -917,7 +922,7 @@
             "experimental animation"
         ],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "computer science"
@@ -939,7 +944,7 @@
             "2014"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -947,13 +952,13 @@
         "designTechnique": [
             "shape/pattern",
             "color",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [
             "algorithmic art"
         ],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "art"
@@ -975,17 +980,19 @@
             "2014"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "static image",
+            "static image/print",
             "interactive interface"
         ],
         "designTechnique": [
             "GUI interaction",
-            "light",
+            "light/optics",
             "imagery/icon/photo",
-            "non-human creatures"
+            "montage/collage",
+            "plants",
+            "tangible interface/touch"
         ],
         "designParadigm": [
             "digital photograph"
@@ -1014,7 +1021,7 @@
             "2014"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -1025,7 +1032,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "not specified"
@@ -1049,16 +1056,18 @@
             "2014"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "installation"
+            "architecture",
+            "interactive interface"
         ],
         "designTechnique": [
-            "light",
+            "light/optics",
             "color",
             "animation",
-            "synchronous generation"
+            "synchronous/responsive generation",
+            "GUI interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1087,14 +1096,14 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video",
             "event"
         ],
         "designTechnique": [
-            "human story",
+            "story/plot",
             "animation",
             "large immersive screen"
         ],
@@ -1111,8 +1120,8 @@
         "特殊材料": "",
         "datatype": [],
         "个性化身份": "",
-        "Background": "Master of Fine Arts",
-        "Affiliation": "University of Illinois \nat Urbana-Champaign (UIUC)",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "Solar Superstorms.png"
     },
@@ -1123,19 +1132,19 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video",
-     
+            "performance",
             "installation"
         ],
         "designTechnique": [
             "AR/VR/MR",
             "animation",
-            
             "color",
-            "shape/pattern"
+            "shape/pattern",
+            "style"
         ],
         "designParadigm": [
             "electronic art"
@@ -1150,9 +1159,9 @@
         "computation": "video processing",
         "特殊材料": "",
         "datatype": [],
-        "个性化身份": "a pioneer of electronic art and visualization",
-        "Background": "California Institute For Telecommunications And Information Technology \n ",
-        "Affiliation": "University of California, San Diego",
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "Spiral 5 and Particle Dreams(A Study of 4D  Julia Sets, and  Particle Dreams  in Spherical).png"
     },
@@ -1163,7 +1172,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -1188,8 +1197,8 @@
             "real-time data"
         ],
         "个性化身份": "",
-        "Background": "Art and Technology",
-        "Affiliation": "School of the Art Institute of Chicago",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "Lagoglyph and Lagoogleglyph.png"
     },
@@ -1200,7 +1209,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -1236,7 +1245,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1244,7 +1253,10 @@
         "designTechnique": [
             "AR/VR/MR",
             "body movement",
-            "imagery/icon/photo"
+            "imagery/icon/photo",
+            "sound/music",
+            "bionics",
+            "style"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1270,15 +1282,15 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "shape/pattern",
-            "non-human view",
-            "montage"
+            "viewpoint of machine",
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1296,7 +1308,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "City University London",
+        "Affiliation": "",
         "Notes": "",
         "images": "We Become the City.png"
     },
@@ -1307,14 +1319,14 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
             "physical meterial",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [
             "digital fabrication"
@@ -1343,7 +1355,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
@@ -1368,7 +1380,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "San Francisco State University ",
+        "Affiliation": "",
         "Notes": "The work is abstract by nature and uses non-narrative\nfilm making techniques...In a world where technology and artificial systems are becoming more prevalent, Inner Space Artifacts is a reminder that they are both a product of nature.",
         "images": "Inner Space Artifacts.png"
     },
@@ -1379,15 +1391,15 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "sound/music",
-            "human story",
-            "glitch"
+            "story/plot",
+            "style"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1408,18 +1420,17 @@
     },
     {
         "name": "Seeing Temporal Data",
-        "author": "Kevin Badn",
+        "author": "Kevin Badni",
         "time": [
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
-            
             "physical meterial"
         ],
         "designParadigm": [],
@@ -1435,7 +1446,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "American University of Sharjah",
+        "Affiliation": "",
         "Notes": "",
         "images": "Seeing Temporal Data.png"
     },
@@ -1446,10 +1457,10 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "shape/pattern",
@@ -1468,7 +1479,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Syracuse University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Agitato.png"
     },
@@ -1479,7 +1490,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1502,7 +1513,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Rochester Institute of Technology",
+        "Affiliation": "",
         "Notes": "",
         "images": "Visual Gibberings.png"
     },
@@ -1513,8 +1524,8 @@
             "2015"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -1522,7 +1533,7 @@
         "designTechnique": [
             "GUI interaction",
             "imagery/icon/photo",
-            "human story"
+            "story/plot"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1548,19 +1559,20 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "glitch",
-            "non-human view"
+            "viewpoint of machine",
+            "imagery/icon/photo",
+            "style"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "inform",
-            "criticize"
+            "criticize",
+            "reveal"
         ],
         "whereField": [
             "computer science"
@@ -1582,7 +1594,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation",
@@ -1615,7 +1627,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1642,7 +1654,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Hi-ReS!",
+        "Affiliation": "",
         "Notes": "",
         "images": "A Stranger to Words.png"
     },
@@ -1653,7 +1665,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1687,7 +1699,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -1720,7 +1732,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1742,7 +1754,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "University of California, Santa Barbara",
+        "Affiliation": "",
         "Notes": "",
         "images": "Natural Rejection.png"
     },
@@ -1753,7 +1765,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1788,7 +1800,7 @@
             "2015"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1826,17 +1838,17 @@
             "2015"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            
-            "light",
-            
+            "light/optics",
             "body movement",
-            "synchronous generation"
+            "synchronous/responsive generation",
+            "bionics",
+            "style"
         ],
         "designParadigm": [
             "spatial narrative"
@@ -1867,7 +1879,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1891,7 +1903,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Northeastern University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Urban Radiance.png"
     },
@@ -1902,11 +1914,11 @@
             "2016"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "static image",
+            "static image/print",
             "algorithm/tool"
         ],
         "designTechnique": [
@@ -1915,7 +1927,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "urban studies"
@@ -1939,14 +1951,14 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "analogy"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1972,15 +1984,14 @@
             "2016"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "sound/music",
-            
             "physical meterial"
         ],
         "designParadigm": [
@@ -2011,7 +2022,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -2019,7 +2030,7 @@
         "designTechnique": [
             "shape/pattern",
             "sound/music",
-            "light"
+            "light/optics"
         ],
         "designParadigm": [
             "neo-concrete art"
@@ -2049,8 +2060,8 @@
             "2016"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
@@ -2085,7 +2096,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -2107,7 +2118,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Monmouth University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Video Voto Matic.png"
     },
@@ -2118,15 +2129,15 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "color",
             "shape/pattern",
-            "non-human creatures"
+            "bacteria/microbiome"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2143,7 +2154,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Université de Montréal",
+        "Affiliation": "",
         "Notes": "",
         "images": "Microbiome Selfies.png"
     },
@@ -2154,7 +2165,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
@@ -2190,7 +2201,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
@@ -2224,11 +2235,11 @@
             "2016"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "style"
@@ -2261,7 +2272,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
@@ -2295,7 +2306,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -2303,14 +2314,15 @@
         "designTechnique": [
             "sound/music",
             "animation",
-            "GUI interaction"
+            "GUI interaction",
+            "style"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "inform"
         ],
         "whereField": [
-            "business"
+            "business/finance"
         ],
         "意象": "",
         "computation": "",
@@ -2331,7 +2343,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -2367,13 +2379,12 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
-            
             "physical meterial"
         ],
         "designParadigm": [],
@@ -2400,14 +2411,14 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2435,10 +2446,10 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "shape/pattern",
@@ -2468,13 +2479,13 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "animation",
             "color"
         ],
@@ -2502,14 +2513,14 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "analogy",
-            "GUI interaction"
+            "GUI interaction",
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2525,8 +2536,8 @@
             "textual data"
         ],
         "个性化身份": "",
-        "Background": "Urban Complexity Lab",
-        "Affiliation": "FH Potsdam",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "Novel City Maps.png"
     },
@@ -2537,7 +2548,7 @@
             "2016"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
@@ -2553,7 +2564,7 @@
             "inform"
         ],
         "whereField": [
-            "business"
+            "business/finance"
         ],
         "意象": "",
         "computation": "",
@@ -2572,8 +2583,8 @@
             "2016"
         ],
         "artPaper": [
-            "paper",
-            "art show"
+            "IEEE VISAP paper",
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -2607,13 +2618,13 @@
             "2016"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "algorithm/tool"
         ],
         "designTechnique": [
-            "glitch"
+            "style"
         ],
         "designParadigm": [
             "glitch art"
@@ -2632,7 +2643,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Purdue University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Glitch style visualization of disrupted neuronal connectivity in Parkinson’s disease.png"
     },
@@ -2643,16 +2654,16 @@
             "2017"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "sound/music",
-            "light",
-            "metaphor",
+            "light/optics",
+            "metaphor/analogy",
             "physical meterial",
             "imagery/icon/photo"
         ],
@@ -2682,7 +2693,7 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -2712,15 +2723,16 @@
     },
     {
         "name": "“The Sky is Falling...”",
-        "author": "Adriene Jeni",
+        "author": "Adriene Jenik",
         "time": [
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-           
+            "performance",
+            "video"
         ],
         "designTechnique": [
             "situated context",
@@ -2753,14 +2765,14 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "montage"
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2786,15 +2798,16 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "metaphor",
-            "synchronous generation",
-            "animation"
+            "metaphor/analogy",
+            "synchronous/responsive generation",
+            "animation",
+            "facial/visual interaction"
         ],
         "designParadigm": [
             "generative art"
@@ -2806,7 +2819,7 @@
             "not specified"
         ],
         "意象": "dandelion",
-        "computation": "",
+        "computation": "generative algorithm",
         "特殊材料": "A biosenso,mirro",
         "datatype": [
             "physiological data"
@@ -2824,15 +2837,15 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "non-human view",
-            "glitch"
+            "viewpoint of machine",
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2858,13 +2871,13 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
-            "montage",
+            "montage/collage",
             "imagery/icon/photo"
         ],
         "designParadigm": [],
@@ -2891,8 +2904,8 @@
             "2017"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
@@ -2928,7 +2941,7 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -2962,7 +2975,7 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -2995,15 +3008,15 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "color",
             "shape/pattern",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3017,8 +3030,8 @@
         "特殊材料": "",
         "datatype": [],
         "个性化身份": "",
-        "Background": "M-Arch, PhD in Design",
-        "Affiliation": "Accurat",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "Selected Projects（Accurat Design）.png"
     },
@@ -3029,14 +3042,15 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            
+            "performance"
         ],
         "designTechnique": [
             "sound/music",
-            "participation/co-dusign"
+            "participation/co-design",
+            "GUI interaction"
         ],
         "designParadigm": [
             "data sonification"
@@ -3064,10 +3078,10 @@
             "2017"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            
+            "performance",
             "installation"
         ],
         "designTechnique": [
@@ -3078,7 +3092,7 @@
             "data sonification"
         ],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "not specified"
@@ -3103,15 +3117,15 @@
             "2017"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
-            
-            "color"
+            "color",
+            "style"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3139,15 +3153,14 @@
             "2017"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
             "physical meterial",
-      
             "color"
         ],
         "designParadigm": [],
@@ -3176,7 +3189,7 @@
             "2017"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -3211,7 +3224,7 @@
             "2017"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "video"
@@ -3243,15 +3256,14 @@
             "2017"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            
             "color",
-            "metaphor",
+            "metaphor/analogy",
             "shape/pattern"
         ],
         "designParadigm": [],
@@ -3279,15 +3291,14 @@
             "2018"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            
             "physical meterial",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3313,14 +3324,13 @@
             "2018"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact",
             "algorithm/tool"
         ],
         "designTechnique": [
-            
             "physical meterial",
             "shape/pattern"
         ],
@@ -3350,14 +3360,14 @@
             "2018"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "montage"
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3385,14 +3395,16 @@
             "2018"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "installation"
+            "installation",
+            "static image/print"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "non-human view"
+            "viewpoint of machine",
+            "facial/visual interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3420,7 +3432,7 @@
             "2018"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "algorithm/tool",
@@ -3432,7 +3444,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "urban studies"
@@ -3456,16 +3468,19 @@
             "2018"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "non-human view",
+            "viewpoint of machine",
             "shape/pattern",
             "color",
-            "animation"
+            "animation",
+            "facial/visual interaction",
+            "voice interaction",
+            "body movement"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3481,8 +3496,8 @@
             "real-time data"
         ],
         "个性化身份": "",
-        "Background": "metaLAB",
-        "Affiliation": "Harvar",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "Artificial Senses.png"
     },
@@ -3493,11 +3508,11 @@
             "2018"
         ],
         "artPaper": [
-            "art show",
-            "pictorial/annotated portfolio"
+            "IEEE VISAP art show",
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "imagery/icon/photo"
@@ -3528,14 +3543,14 @@
             "2018"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
             "physical meterial",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3561,14 +3576,14 @@
             "2018"
         ],
         "artPaper": [
-            "art show",
-            "pictorial/annotated portfolio"
+            "IEEE VISAP art show",
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "algorithm/tool"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "color"
         ],
         "designParadigm": [],
@@ -3586,7 +3601,7 @@
         "Background": "",
         "Affiliation": "",
         "Notes": "",
-        "images": "Simulated dendrochronology of immigrants and natural-borns in United States (1790-2016)[Process of simulating tree rings for immigration in the U.S.].png"
+        "images": "Simulated dendrochronology of immigrants and natural-borns in United States.png"
     },
     {
         "name": "Bloodie Writes an Anthem",
@@ -3595,7 +3610,7 @@
             "2018"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
@@ -3634,7 +3649,7 @@
             "2018"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "interactive interface"
@@ -3658,8 +3673,8 @@
             "geo-spatial data"
         ],
         "个性化身份": "",
-        "Background": "Design department",
-        "Affiliation": "University of Paris 1 Pantheon- Sorbonne",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "Designing Beautiful Evidence in an Era of Complexity. When Graphics reveal Global Social Changes and Issues.png"
     },
@@ -3670,7 +3685,7 @@
             "2018"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "interactive interface"
@@ -3694,7 +3709,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "University of Victoria",
+        "Affiliation": "",
         "Notes": "",
         "images": "Cycles and (A)symmetry _ Exploring the Design of Shareable Personal Visualizations.png"
     },
@@ -3705,16 +3720,15 @@
             "2018"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "artifact",
-            "static image",
+            "static image/print",
             "event",
             "interactive interface"
         ],
         "designTechnique": [
-            
             "imagery/icon/photo",
             "physical meterial",
             "color"
@@ -3735,7 +3749,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Ravensbourne University London",
+        "Affiliation": "",
         "Notes": "",
         "images": "Data Walking AP.png"
     },
@@ -3746,7 +3760,7 @@
             "2018"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -3757,7 +3771,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "not specified"
@@ -3781,7 +3795,7 @@
             "2018"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -3817,17 +3831,18 @@
             "2018"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "light",
-            "participation/co-dusign",
-            "human story",
+            "light/optics",
+            "participation/co-design",
+            "story/plot",
             "color",
-            "metaphor"
+            "metaphor/analogy",
+            "GUI interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3844,7 +3859,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "IBM Research",
+        "Affiliation": "",
         "Notes": "",
         "images": "Nostalgia_ A Human-Machine Transliteration.png"
     },
@@ -3855,13 +3870,14 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print",
+            "video"
         ],
         "designTechnique": [
-            "non-human view",
+            "viewpoint of machine",
             "imagery/icon/photo"
         ],
         "designParadigm": [
@@ -3892,20 +3908,18 @@
             "2019"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "non-human view",
-            "montage"
+            "large immersive screen",
+            "sound/music"
         ],
         "designParadigm": [
-            "generative art",
-            "evolutionary algorithm",
-            "data sonification"
+            "generative art"
         ],
         "whatPurpose": [
             "witness"
@@ -3932,13 +3946,13 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3966,22 +3980,22 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
-            "participation/co-dusign",
-            
+            "participation/co-design",
             "physical meterial",
-            "human story"
+            "personalization"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "criticize"
         ],
         "whereField": [
+            "news & media",
             "urban studies"
         ],
         "意象": "",
@@ -3992,9 +4006,9 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "York University",
+        "Affiliation": "",
         "Notes": "",
-        "images": "home1.png"
+        "images": "home.png"
     },
     {
         "name": "Arctic LiDAR",
@@ -4003,7 +4017,7 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -4011,8 +4025,8 @@
         "designTechnique": [
             "large immersive screen",
             "AR/VR/MR",
-            "human story",
-            "non-human view",
+            "story/plot",
+            "viewpoint of machine",
             "imagery/icon/photo"
         ],
         "designParadigm": [],
@@ -4029,7 +4043,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Syracuse University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Arctic LiDAR.png"
     },
@@ -4040,7 +4054,7 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -4050,7 +4064,6 @@
             "animation",
             "imagery/icon/photo",
             "physical meterial",
-            
             "personalization"
         ],
         "designParadigm": [],
@@ -4079,13 +4092,13 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "human story",
+            "story/plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -4112,7 +4125,7 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
@@ -4120,7 +4133,7 @@
         "designTechnique": [
             "physical meterial",
             "color",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [
             "data physicalization"
@@ -4137,7 +4150,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "University of Calgary",
+        "Affiliation": "",
         "Notes": "",
         "images": "OceanForestAir.png"
     },
@@ -4148,7 +4161,7 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
@@ -4171,7 +4184,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "metaLAB, Harvard, Cambridge, Europäische Medienwissenschaft and Universität Potsdam",
+        "Affiliation": "",
         "Notes": "",
         "images": "Distinction Machine.png"
     },
@@ -4182,15 +4195,14 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "installation"
         ],
         "designTechnique": [
-            "non-human view",
-            "imagery/icon/photo",
-            "montage"
+            "viewpoint of machine",
+            "imagery/icon/photo"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4218,13 +4230,13 @@
             "2019"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -4233,7 +4245,7 @@
             "inform"
         ],
         "whereField": [
-            "business"
+            "business/finance"
         ],
         "意象": "fog",
         "computation": "",
@@ -4252,7 +4264,7 @@
             "2019"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation",
@@ -4260,7 +4272,7 @@
         ],
         "designTechnique": [
             "physical meterial",
-            "metaphor",
+            "metaphor/analogy",
             "situated context"
         ],
         "designParadigm": [
@@ -4277,9 +4289,9 @@
         "computation": "",
         "特殊材料": "",
         "datatype": [],
-        "个性化身份": " a designer/researcher/educator",
+        "个性化身份": "",
         "Background": "",
-        "Affiliation": "OCAD University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Data Manifestation_ Merging the Human World and Global Climate Change.png"
     },
@@ -4290,7 +4302,7 @@
             "2019"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -4300,7 +4312,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "not specified"
@@ -4311,7 +4323,7 @@
         "datatype": [
             "image data"
         ],
-        "个性化身份": "Graduate Researcher； a visualization developer；an Associate Professor ",
+        "个性化身份": "",
         "Background": "",
         "Affiliation": "",
         "Notes": "",
@@ -4324,16 +4336,17 @@
             "2019"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "installation"
+            "installation",
+            "photograph"
         ],
         "designTechnique": [
             "body movement",
-            "participation/co-dusign",
             "color",
-            "imagery/icon/photo"
+            "imagery/icon/photo",
+            "facial/visual interaction"
         ],
         "designParadigm": [
             "digital art"
@@ -4350,7 +4363,7 @@
         "datatype": [
             "image data"
         ],
-        "个性化身份": "Visualización en la sociocomplejidad. Visualization on Sociocomplexity；a Graphic Designer and Master in Sciences and Arts for Design",
+        "个性化身份": "",
         "Background": "",
         "Affiliation": "",
         "Notes": "",
@@ -4363,7 +4376,7 @@
             "2019"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "installation"
@@ -4389,9 +4402,9 @@
             "textual data",
             "geo-spatial data"
         ],
-        "个性化身份": "a senior lecturer",
+        "个性化身份": "",
         "Background": "",
-        "Affiliation": "Northumbria University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Mapping The Prelude_ A Visualisation of Wordsworth's Poetry.png"
     },
@@ -4402,16 +4415,17 @@
             "2019"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
-            "static image",
-            "interactive interface"
+            "static image/print",
+            "interactive interface",
+            "architecture"
         ],
         "designTechnique": [
             "shape/pattern",
-            "non-human creatures",
-            "situated context"
+            "situated context",
+            "plants"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4426,9 +4440,9 @@
         "datatype": [
             "real-time data"
         ],
-        "个性化身份": "Associate Professor and Chair of the department of Art + Design at Northeastern University",
+        "个性化身份": "",
         "Background": "",
-        "Affiliation": "Northeastern University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Dustmark and Ozone Tattoos_ Autographic displays of air pollution.png"
     },
@@ -4439,7 +4453,7 @@
             "2019"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "algorithm/tool",
@@ -4453,7 +4467,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "not specified"
@@ -4462,7 +4476,7 @@
         "computation": "",
         "特殊材料": "",
         "datatype": [],
-        "个性化身份": "an artist, primarily a printmaker and mural paint； Computer Science graduate；a graduate research assistant；Professor of Computer Science",
+        "个性化身份": "",
         "Background": "",
         "Affiliation": "",
         "Notes": "",
@@ -4475,19 +4489,22 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "sound/music",
-            "human story",
-            "light",
-            "body movement"
+            "story/plot",
+            "light/optics",
+            "body movement",
+            "synchronous/responsive generation"
         ],
         "designParadigm": [
-            "data sonification"
+            "machine learning",
+            "physical computing",
+            "digital audio signal processing"
         ],
         "whatPurpose": [
             "engage"
@@ -4514,7 +4531,7 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -4522,7 +4539,11 @@
         "designTechnique": [
             "typography",
             "imagery/icon/photo",
-            "synchronous generation"
+            "synchronous/responsive generation",
+            "large immersive screen",
+            "facial/visual interaction",
+            "viewpoint of machine",
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4532,7 +4553,7 @@
             "art"
         ],
         "意象": "",
-        "computation": "",
+        "computation": "neural network",
         "特殊材料": "",
         "datatype": [
             "image data",
@@ -4551,7 +4572,7 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
@@ -4584,7 +4605,7 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -4607,7 +4628,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Monmouth University",
+        "Affiliation": "",
         "Notes": "",
         "images": "Electo Electro.png"
     },
@@ -4618,14 +4639,14 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
             "style",
-            "human story"
+            "story/plot"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4653,15 +4674,15 @@
             "2020"
         ],
         "artPaper": [
-            "art show",
-            "pictorial/annotated portfolio"
+            "IEEE VISAP art show",
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
-            "human story",
+            "metaphor/analogy",
+            "story/plot",
             "sound/music",
             "GUI interaction"
         ],
@@ -4691,17 +4712,19 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "human story",
-            "non-human view"
+            "story/plot",
+            "viewpoint of machine"
         ],
-        "designParadigm": [],
+        "designParadigm": [
+            "generative storytelling"
+        ],
         "whatPurpose": [
             "experiment"
         ],
@@ -4725,17 +4748,17 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "montage",
-            "non-human view",
+            "montage/collage",
+            "viewpoint of machine",
             "sound/music",
-            "participation/co-dusign"
+            "facial/visual interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4752,8 +4775,8 @@
             "image data"
         ],
         "个性化身份": "",
-        "Background": "Media Arts and Technology",
-        "Affiliation": "University of California, Santa Barbara",
+        "Background": "",
+        "Affiliation": "",
         "Notes": "",
         "images": "Uncertain Facing.png"
     },
@@ -4764,21 +4787,21 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "human story",
+            "story/plot",
             "imagery/icon/photo",
-            
             "animation",
-            "GUI interaction"
+            "GUI interaction",
+            "style"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "commemorate"
+            "memorize"
         ],
         "whereField": [
             "health & well-being"
@@ -4792,7 +4815,7 @@
         ],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "Apple",
+        "Affiliation": "",
         "Notes": "",
         "images": "Unfinished Farewell.png"
     },
@@ -4803,7 +4826,7 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
@@ -4826,7 +4849,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "University of California, Santa Barbara",
+        "Affiliation": "",
         "Notes": "",
         "images": "Visum_ beyond the physical eye.png"
     },
@@ -4837,7 +4860,7 @@
             "2020"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
@@ -4863,7 +4886,7 @@
         "datatype": [],
         "个性化身份": "",
         "Background": "",
-        "Affiliation": "University of California, Santa Barbara",
+        "Affiliation": "",
         "Notes": "",
         "images": "Volume of Voids.png"
     },
@@ -4874,17 +4897,17 @@
             "2020"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "algorithm/tool"
         ],
         "designTechnique": [
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "not specified"
@@ -4906,13 +4929,13 @@
             "2020"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "gesture",
             "animation"
         ],
@@ -4941,13 +4964,13 @@
             "2020"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "animation",
             "color",
             "shape/pattern"
@@ -4978,8 +5001,8 @@
             "2020"
         ],
         "artPaper": [
-            "art show",
-            "pictorial/annotated portfolio"
+            "IEEE VISAP art show",
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "video"
@@ -5017,7 +5040,7 @@
             "2021"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -5027,7 +5050,7 @@
             "imagery/icon/photo",
             "animation",
             "large immersive screen",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5053,13 +5076,13 @@
             "2021"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "human story",
+            "story/plot",
             "robot"
         ],
         "designParadigm": [],
@@ -5088,7 +5111,7 @@
             "2021"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface",
@@ -5096,8 +5119,7 @@
         ],
         "designTechnique": [
             "personalization",
-            
-            "analogy"
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5125,16 +5147,17 @@
             "2021"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "non-human view",
-            "GUI interaction"
+            "viewpoint of machine",
+            "GUI interaction",
+            "animation"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5163,15 +5186,16 @@
             "2021"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "typography",
-            "synchronous generation",
-            "animation"
+            "synchronous/responsive generation",
+            "animation",
+            "voice interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5199,14 +5223,14 @@
             "2021"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "human story",
+            "story/plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -5236,10 +5260,10 @@
             "2021"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "imagery/icon/photo",
@@ -5271,14 +5295,15 @@
             "2021"
         ],
         "artPaper": [
-            "art show",
-            "pictorial/annotated portfolio"
+            "IEEE VISAP art show",
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
-            "installation"
+            "installation",
+            "performance"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "color",
             "sound/music",
             "body movement",
@@ -5309,10 +5334,10 @@
             "2021"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image",
+            "static image/print",
             "interactive interface"
         ],
         "designTechnique": [
@@ -5345,7 +5370,7 @@
             "2021"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "video"
@@ -5380,14 +5405,14 @@
             "2021"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface",
             "installation"
         ],
         "designTechnique": [
-            "human story",
+            "story/plot",
             "animation"
         ],
         "designParadigm": [
@@ -5410,13 +5435,13 @@
         "images": "untitled interspecies umwelten.png"
     },
     {
-        "name": "Visualizing Life in the Deep: A Creative Pipeline for Data-Driven Animations to Facilitate Marine Mammal Research, Outreach, and Conservation (Paper)",
+        "name": "Visualizing Life in the Deep: A Creative Pipeline for Data-Driven Animations to Facilitate Marine Mammal Research, Outreach, and Conservation",
         "author": "Jessica Marielle Kendall-Bar, Nicolas Kendall-Bar, Angus G. Forbes, Gitte McDonald, Paul J. Ponganis Scripps, Cassondra Williams, Allyson Hindle, Holger Klinck, Markus Horning, David Wiley, Ari S. Friedlaender, Roxanne S. Beltran, Daniel P. Costa, Terrie Williams",
         "time": [
             "2021"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "video"
@@ -5425,7 +5450,7 @@
             "animation",
             "imagery/icon/photo",
             "sound/music",
-            "human story"
+            "story/plot"
         ],
         "designParadigm": [
             "data sonification"
@@ -5447,7 +5472,7 @@
         "Background": "",
         "Affiliation": "",
         "Notes": "",
-        "images": "Visualizing Life in the Deep_ A Creative Pipeline for Data-Driven Animations to Facilitate Marine Mammal Research, Outreach, and Conservation (Paper).png"
+        "images": "Visualizing Life in the Deep_ A Creative Pipeline for Data-Driven Animations to Facilitate Marine Mammal Research, Outreach, and Conservation.png"
     },
     {
         "name": "Creating Meaningful Connections Through COVID-19 Data Manifestation (Paper)",
@@ -5456,16 +5481,16 @@
             "2021"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
-            "human story",
+            "story/plot",
             "physical meterial",
             "color",
-            "metaphor"
+            "metaphor/analogy"
         ],
         "designParadigm": [
             "data manifestation"
@@ -5488,21 +5513,22 @@
         "images": "Creating Meaningful Connections Through COVID-19 Data Manifestation (Paper).png"
     },
     {
-        "name": "Deep Connection: Making Virtual Reality Artworks with Medical Scan Data (Paper)",
+        "name": "Deep Connection: Making Virtual Reality Artworks with Medical Scan Data",
         "author": "Marilene Oliver, Gary Joynes Joynes, Dr. Kumaradevan Punithakumar, Peter Seres",
         "time": [
             "2021"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "AR/VR/MR",
-            "touch/manipulate",
-            "imagery/icon/photo"
+            "imagery/icon/photo",
+            "body movement",
+            "tangible interface/touch"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5522,7 +5548,7 @@
         "Background": "",
         "Affiliation": "",
         "Notes": "",
-        "images": "Deep Connection_ Making Virtual Reality Artworks with Medical Scan Data (Paper).png"
+        "images": "Deep Connection_ Making Virtual Reality Artworks with Medical Scan Data.png"
     },
     {
         "name": "Affective Palettes for Scientific Visualization: Grounding Environmental Data in the Natural World (Pictorial)",
@@ -5531,7 +5557,7 @@
             "2021"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -5542,7 +5568,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "equip"
+            "enable"
         ],
         "whereField": [
             "art"
@@ -5566,7 +5592,7 @@
             "2021"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -5601,15 +5627,16 @@
             "2021"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
-            "static image",
+            "static image/print",
             "algorithm/tool"
         ],
         "designTechnique": [
-            "non-human view",
-            "imagery/icon/photo"
+            "viewpoint of machine",
+            "imagery/icon/photo",
+            "facial/visual interaction"
         ],
         "designParadigm": [
             "generative art"
@@ -5639,7 +5666,7 @@
             "2021"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "interactive interface"
@@ -5674,7 +5701,7 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
@@ -5682,7 +5709,7 @@
         "designTechnique": [
             "color",
             "physical meterial",
-            "participation/co-dusign"
+            "tangible interface/touch"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5710,15 +5737,15 @@
             "2022"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
             "typography",
-            "human story",
+            "story/plot",
             "shape/pattern",
             "GUI interaction"
         ],
@@ -5748,13 +5775,13 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "GUI interaction",
             "animation"
         ],
@@ -5777,19 +5804,19 @@
     },
     {
         "name": "at the pump",
-        "author": "Joseph A. Insley",
+        "author": "Joseph A. Insley",
         "time": [
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "montage"
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5817,16 +5844,16 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-            
+            "performance",
             "installation"
         ],
         "designTechnique": [
-            "non-human creatures",
             "animation",
-            "sound/music"
+            "sound/music",
+            "plants"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5855,15 +5882,15 @@
             "2022"
         ],
         "artPaper": [
-            "art show",
-            "pictorial/annotated portfolio"
+            "IEEE VISAP art show",
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
-            "static image"
+            "static image/print"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "montage"
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5891,19 +5918,19 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
-         
+            "performance"
         ],
         "designTechnique": [
-            "synchronous generation",
+            "synchronous/responsive generation",
             "physical meterial",
-            "body movement"
+            "sound/music"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "commemorate",
+            "memorize",
             "experiment"
         ],
         "whereField": [
@@ -5929,7 +5956,7 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
@@ -5967,14 +5994,14 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "gesture",
-            "metaphor",
+            "metaphor/analogy",
             "shape/pattern",
             "color"
         ],
@@ -6004,16 +6031,16 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "light",
-            "imagery/icon/photo",
-            "synchronous generation",
-            "non-human view"
+            "light/optics",
+            "synchronous/responsive generation",
+            "facial/visual interaction",
+            "metaphor/analogy"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6023,8 +6050,8 @@
         "whereField": [
             "art"
         ],
-        "意象": "",
-        "computation": "",
+        "意象": "gaze",
+        "computation": "Conditional Adversarial Networks",
         "特殊材料": "",
         "datatype": [
             "image data",
@@ -6043,13 +6070,13 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -6076,14 +6103,14 @@
             "2022"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-           
+            "performance"
         ],
         "designTechnique": [
-            "human story",
+            "story/plot",
             "body movement"
         ],
         "designParadigm": [],
@@ -6111,20 +6138,22 @@
             "2022"
         ],
         "artPaper": [
-            "art show",
-            "paper"
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
         ],
         "designCategory": [
-            "algorithm/tool"
-            
+            "algorithm/tool",
+            "performance"
         ],
         "designTechnique": [
-            "synchronous generation",
+            "synchronous/responsive generation",
             "sound/music",
-            "style"
+            "style",
+            "facial/visual interaction",
+            "participation/co-design"
         ],
         "designParadigm": [
-            "generative art"
+            "compter-generated art"
         ],
         "whatPurpose": [
             "reveal",
@@ -6150,14 +6179,13 @@
             "2022"
         ],
         "artPaper": [
-            "art show"
+            "IEEE VISAP art show"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
-            "metaphor",
-            
+            "metaphor/analogy",
             "color",
             "shape/pattern",
             "physical meterial"
@@ -6186,7 +6214,7 @@
             "2022"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "installation"
@@ -6211,7 +6239,7 @@
         "Background": "",
         "Affiliation": "",
         "Notes": "",
-        "images": "ESSYS_ Sharing _UC_ An Emotion-driven Audiovisual Installation.png"
+        "images": "ESSYS_ Sharing.png"
     },
     {
         "name": "Affective, Hand-Sculpted Glyph Forms for Engaging and Expressive Scientific Visualization",
@@ -6220,7 +6248,7 @@
             "2022"
         ],
         "artPaper": [
-            "paper"
+            "IEEE VISAP paper"
         ],
         "designCategory": [
             "artifact",
@@ -6257,13 +6285,13 @@
             "2022"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "animation",
             "shape/pattern",
             "color"
@@ -6273,7 +6301,7 @@
             "engage"
         ],
         "whereField": [
-            "business"
+            "business/finance"
         ],
         "意象": "animated balloons",
         "computation": "",
@@ -6292,15 +6320,17 @@
             "2022"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "light",
+            "light/optics",
             "sound/music",
-            "synchronous generation"
+            "synchronous/responsive generation",
+            "participation/co-design",
+            "GUI interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6328,13 +6358,13 @@
             "2022"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor",
+            "metaphor/analogy",
             "color",
             "GUI interaction"
         ],
@@ -6365,7 +6395,7 @@
             "2022"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "installation"
@@ -6376,7 +6406,8 @@
             "imagery/icon/photo",
             "large immersive screen",
             "style",
-            "sound/music"
+            "sound/music",
+            "draw/sketch"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6405,16 +6436,15 @@
             "2022"
         ],
         "artPaper": [
-            "pictorial/annotated portfolio"
+            "IEEE VISAP pictorial/annotated portfolio"
         ],
         "designCategory": [
             "event",
             "artifact"
         ],
         "designTechnique": [
-            
-            "non-human creatures",
-            "physical meterial"
+            "physical meterial",
+            "bacteria/microbiome"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6432,5 +6462,1553 @@
         "Affiliation": "",
         "Notes": "",
         "images": "The Memory Of Street Hong Kong_ History, Culture, Memory And Post-Humanism.png"
+    },
+    {
+        "name": "Body Cosmos||Body Cosmos: An Immersive Experience Driven by Real-TimeBio-Data",
+        "author": "Rem RunGu Lin, Koo YongEn Ke, Leixin Luo||Kang Zhang",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP paper",
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "AR/VR/MR",
+            "color",
+            "metaphor/analogy",
+            "style"
+        ],
+        "designParadigm": [
+            "bio-data art",
+            "VR art",
+            "and medical data art"
+        ],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "cosmos",
+        "computation": "heart rate sensors and EEG devices",
+        "特殊材料": "",
+        "datatype": [
+            "physiological data",
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "vimeo.com/user74394024",
+        "images": "Body Cosmos__Body Cosmos_ An Immersive Experience Driven by Real-TimeBio-Data.png"
+    },
+    {
+        "name": "Eco-Mending",
+        "author": "Jane Adams, Racquel Fygenson",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "artifact",
+            "static image/print"
+        ],
+        "designTechnique": [
+            "story/plot",
+            "physical meterial",
+            "metaphor/analogy"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "mending",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Eco-Mending.png"
+    },
+    {
+        "name": "Infinite Colours",
+        "author": "Xavier Ho, Stephen Krol",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "color",
+            "shape/pattern",
+            "animation"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "empower",
+            "celebrate"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "Javascript, projector, primed woodboard",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Infinite Colours - Xavier Ho (jtg.design)",
+        "images": "Infinite Colours.png"
+    },
+    {
+        "name": "Latent Prism",
+        "author": "Jane Adams",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "imagery/icon/photo",
+            "light/optics"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke",
+            "engage"
+        ],
+        "whereField": [
+            "geography"
+        ],
+        "意象": "",
+        "computation": "generative adversarial network (GAN)",
+        "特殊材料": "mylar, lucite,architectural drafting paper,adhesive, LED",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Webpage: universalities.com/",
+        "images": "Latent Prism.png"
+    },
+    {
+        "name": "Monster in a Snow Globe: Biographies as Data Physicalizations",
+        "author": "Florian Windhager, Viola Rühse, Michael Smuc",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "interactive interface",
+            "artifact"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "layout",
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "translate"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "translucent space-time sculpture",
+        "datatype": [
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Webpage: dataquaria.com/?sample=zens",
+        "images": "Monster in a Snow Globe_ Biographies as Data Physicalizations.png"
+    },
+    {
+        "name": "Parasitic Signals: Coexistence with the SARS-CoV-2 Virus || Parasitic signals: Multimodal Sonata for Real-time Interactive Simulation of the SARS-CoV-2 Virus",
+        "author": "Myungin Lee, Sabina Hyoju Ahn, Yoojin Oh, JoAnn Kuchera-Morin",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show",
+            "IEEE VISAP paper"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "large immersive screen",
+            "sound/music",
+            "GUI interaction",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "translate",
+            "provoke"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Webpage: myunginlee.com/covid",
+        "images": "Parasitic Signals_ Coexistence with the SARS-CoV-2 Virus __ Parasitic signals_ Multimodal Sonata for Real-time Interactive Simulation of the SARS-CoV-2 Virus.png"
+    },
+    {
+        "name": "Plastic Landscape: The Reversible World",
+        "author": "Yoon Chung Han",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "animation",
+            "shape/pattern",
+            "large immersive screen",
+            "sound/music",
+            "imagery/icon/photo",
+            "style"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "criticize",
+            "provoke",
+            "advocate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "reverse neural network algorithms",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Webpage: yoonchunghan.com/portfolio/plasticlandscape.html",
+        "images": "Plastic Landscape_ The Reversible World.png"
+    },
+    {
+        "name": "Posts with No Response: The Island of Loneliness",
+        "author": "Junxiu Tang, Rui Sheng, Yifang Wang, Xinhuan Shu, Xiaojiao Chen, Tan Tang, Yingcai Wu",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show",
+            "IEEE VISAP pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "metaphor/analogy",
+            "color",
+            "physical meterial",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal",
+            "provoke"
+        ],
+        "whereField": [
+            "news & media",
+            "psychology"
+        ],
+        "意象": "Island（sand,water flowers）",
+        "computation": "",
+        "特殊材料": "wood, projection",
+        "datatype": [
+            "大数据"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Webpage: osf.io/3kt8d/",
+        "images": "Posts with No Response_ The Island of Loneliness.png"
+    },
+    {
+        "name": "Solar System",
+        "author": "Hyemi Song",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "performance"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "synchronous/responsive generation",
+            "shape/pattern",
+            "animation",
+            "style"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "reveal"
+        ],
+        "whereField": [
+            "astronomy"
+        ],
+        "意象": "",
+        "computation": "algorithms",
+        "特殊材料": "Sound sensors, a MIDI Controller",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Solar System.png"
+    },
+    {
+        "name": "Spotlight",
+        "author": "Kimiya Pahlevan, Charles Perin",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "light/optics",
+            "physical meterial",
+            "metaphor/analogy"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "replicate"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "glow-in-the-dark paint and markers, UV flashlight",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Spotlight.png"
+    },
+    {
+        "name": "The Heart (Video Documentation)",
+        "author": "Robert Walton, Zaher Joukhadar, Additive (Paul Lim and Bosco Shaw), Brad Hammond , Michael McAtomney (Melbourne Connect)",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "metaphor/analogy",
+            "synchronous/responsive generation",
+            "GUI interaction",
+            "light/optics"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal",
+            "memorize"
+        ],
+        "whereField": [
+            "urban studies"
+        ],
+        "意象": "heart",
+        "computation": "dense sensor network, generative adversarial network (GAN), Manifold Learning",
+        "特殊材料": "10-metre-tall volume of brass droppers, reconstituted brick fragments, and LEDs",
+        "datatype": [
+            "real-time data",
+            "multi-modal data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Webpage: robertwalton.net/project/the-heart/",
+        "images": "The Heart (Video Documentation).png"
+    },
+    {
+        "name": "The Vast Territory",
+        "author": "Baltazar Pérez, Simón López Trujillo",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "layout",
+            "color",
+            "metaphor/analogy"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "infection",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "The Vast Territory.png"
+    },
+    {
+        "name": "Waiting for the Wave in Metave",
+        "author": "Midori Yamazaki, Yves Leterrier, Junya Taguchi, Sandeep Virdi",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "artifact",
+            "photograph"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "transparent materials",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Waiting for the Wave in Metave.png"
+    },
+    {
+        "name": "Associative Forms for Encoding Multivariate Climate Data",
+        "author": "Francesca Samsel, Daniel Keefe, Gregory ABram, Catherine Bowman",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP pictorial/annotated portfolio",
+            "IEEE VISAP art show"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "translate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Our research objective is to facilitate the merging of our sensory perception of the environment with the data representing that environment, through the development of a new visual vocabulary that speaks both to the scientific and artistic representations of our environments, translating data into a sensory perception, making us perpetually present in the deeper, richer reality of our environment. ",
+        "images": "Associative Forms for Encoding Multivariate Climate Data.png"
+    },
+    {
+        "name": "Bitter Data: An Exploration into Data Edibilization of Negative Emotion",
+        "author": "YuFan Li, Yue Huang, Varvara Guljajeva, Kang Zhang",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "event",
+            "photograph"
+        ],
+        "designTechnique": [
+            "participation/co-design",
+            "smell",
+            "color",
+            "metaphor/analogy",
+            "imagery/icon/photo",
+            "montage/collage",
+            "taste"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "tea",
+        "computation": "",
+        "特殊材料": "tea",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Bitter Data_ An Exploration into Data Edibilization of Negative Emotion.png"
+    },
+    {
+        "name": "Reinterpreted Spaces, an AI Printmaking Collaboration",
+        "author": "Hannen Wolfe, Charlotte Rogerson, Amanda Lilleston",
+        "time": [
+            "2023"
+        ],
+        "artPaper": [
+            "IEEE VISAP pictorial/annotated portfolio"
+        ],
+        "designCategory": [
+            "artifact",
+            "photograph"
+        ],
+        "designTechnique": [
+            "viewpoint of machine",
+            "imagery/icon/photo",
+            "participation/co-design"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke",
+            "experiment"
+        ],
+        "whereField": [
+            "geography",
+            "art"
+        ],
+        "意象": "",
+        "computation": "generative adversarial network (GAN)",
+        "特殊材料": "a generative adversarial network, traditional printmaking and a camera",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Reinterpreted Spaces, an AI Printmaking Collaboration.png"
+    },
+    {
+        "name": "A Spark Of Activity: Exploring Informative Art As \nVisualization For Physical Activity ",
+        "author": "Chloe Fan, Jodi Forlizzi, \nAnind K. Dey",
+        "time": [
+            "2012"
+        ],
+        "artPaper": [
+            "UbiComp"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "color",
+            "animation",
+            "GUI interaction",
+            "layout",
+            "metaphor/analogy"
+        ],
+        "designParadigm": [
+            "abstract art"
+        ],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "sports"
+        ],
+        "意象": "tree ring，bucket",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "【好】The tablet visualization is intended to be easily glanceable, so it resides in a common space in the home, such as the living room or the kitchen. The abstract nature of the display masks any personal information that users may not want to share in a public space. ",
+        "images": "A Spark Of Activity_ Exploring Informative Art As _Visualization For Physical Activity .png"
+    },
+    {
+        "name": "Chemicals in the Creek: designing a situated data physicalization of open government data with the community ",
+        "author": "Laura J. Perovich; Sara Ann Wylie; Roseann Bongiovanni",
+        "time": [
+            "2020"
+        ],
+        "artPaper": [
+            "TVCG"
+        ],
+        "designCategory": [
+            "event",
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "participation/co-design",
+            "situated context",
+            "light/optics",
+            "metaphor/analogy",
+            "color"
+        ],
+        "designParadigm": [
+            "Participatory Action Research"
+        ],
+        "whatPurpose": [
+            "inform",
+            "engage",
+            "provoke",
+            "socialize"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "latern, ceremony",
+        "computation": "",
+        "特殊材料": "LED board, paper lanterns",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "尝试材料的部分好，This process suggests the importance of future research on cost-\neffective adaptable hardware-based color solutions for data physicalization and methods for color selection for limited palettes.",
+        "images": "Chemicals in the Creek_ designing a situated data physicalization of open government data with the community .png"
+    },
+    {
+        "name": "Red Balloon, Green Balloon, Sensors in the Sky ",
+        "author": "Stacey Kuznetsov, George Noel Davis, Eric Paulos, Mark D. Gross, Jian Chiu Cheung",
+        "time": [
+            "2011"
+        ],
+        "artPaper": [
+            "UbiComp"
+        ],
+        "designCategory": [
+            "installation",
+            "event",
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "color",
+            "participation/co-design",
+            "metaphor/analogy",
+            "light/optics"
+        ],
+        "designParadigm": [
+            "Spectacle computing"
+        ],
+        "whatPurpose": [
+            "experiment",
+            "provoke",
+            "advocate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "balloon",
+        "computation": "sensor",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Red Balloon, Green Balloon, Sensors in the Sky .png"
+    },
+    {
+        "name": "Exploring Ambient and Artistic Visualization for Residential Energy Use Feedback ",
+        "author": "Johnny Rodgers; Lyn Bartram",
+        "time": [
+            "2011"
+        ],
+        "artPaper": [
+            "TVCG"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "situated context",
+            "shape/pattern",
+            "layout",
+            "metaphor/analogy",
+            "color",
+            "animation"
+        ],
+        "designParadigm": [
+            "computational aesthetics",
+            "generative and abstract art",
+            "and organic patterns"
+        ],
+        "whatPurpose": [
+            "inform",
+            "engage"
+        ],
+        "whereField": [
+            "environmental sciences & ecology",
+            "daily life"
+        ],
+        "意象": "flower, beehive, pinwheel",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "【好】探索家用informative art怎么兼顾功能性和审美性；也谈了传统可视化的不足 In this paper we describe three abstract visualizations and suggest four design requirements that this type of device must meet to be effective: pragmatic, aesthetic, ambient, and ecological. ",
+        "images": "Exploring Ambient and Artistic Visualization for Residential Energy Use Feedback .png"
+    },
+    {
+        "name": "EMVIZ: The Poetics of Movement Quality Visualization ",
+        "author": "Johnny Rodgers; Lyn Bartram",
+        "time": [
+            "2011"
+        ],
+        "artPaper": [
+            "CAe"
+        ],
+        "designCategory": [
+            "interactive interface",
+            "installation"
+        ],
+        "designTechnique": [
+            "metaphor/analogy",
+            "shape/pattern",
+            "animation",
+            "color",
+            "body movement"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "line qualities",
+        "computation": "wearable sensor",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data",
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "EMVIZ_ The Poetics of Movement Quality Visualization .png"
+    },
+    {
+        "name": "Wind Map ",
+        "author": "Fernanda Bertini Viégas, Martin Wattenberg",
+        "time": [
+            "2012"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "interactive interface",
+            "static image/print"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "animation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform",
+            "experiment"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "It's the first web artwork to be in MoMA's permanent collection.\n\nAlthough we made the wind map as an artistic exploration, we've been surprised by the kinds of things people use it for: bird watchers have tracked migration patterns; bicyclists have planned their trips; and we've even seen conspiracy theorists use it to track mysterious chemicals in the air.\n\n分享：https://vimeo.com/48625144",
+        "images": "Wind Map .png"
+    },
+    {
+        "name": "Out of Statistics: Beyond Legal ",
+        "author": "Rebecca Ruige Xu and Sean Hongsheng Zhai ",
+        "time": [
+            "2009"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "color",
+            "layout",
+            "style",
+            "physical meterial"
+        ],
+        "designParadigm": [
+            "Minimalism and traditional Asian art"
+        ],
+        "whatPurpose": [
+            "inform",
+            "criticize"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "self-developed algorithm",
+        "特殊材料": "archival-ink digital prints on rice paper",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Out of Statistics_ Beyond Legal .png"
+    },
+    {
+        "name": "Synchronous Objects for One Flat Thing, Reproduced ",
+        "author": "William Forsythe, Maria Palazzi, and Norah Zuniga Shaw",
+        "time": [
+            "2009"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "video"
+        ],
+        "designTechnique": [
+            "color",
+            "animation",
+            "shape/pattern",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage",
+            "translate"
+        ],
+        "whereField": [
+            "art"
+        ],
+        "意象": "",
+        "computation": "computer vision",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Synchronous Objects for One Flat Thing, Reproduced .png"
+    },
+    {
+        "name": "Poetry on the Road ",
+        "author": "Boris Müller",
+        "time": [
+            "2002"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "color",
+            "layout",
+            "shape/pattern"
+        ],
+        "designParadigm": [
+            "generative art"
+        ],
+        "whatPurpose": [
+            "translate"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "",
+        "computation": "Java program",
+        "特殊材料": "",
+        "datatype": [
+            "textual data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Poetry on the Road .png"
+    },
+    {
+        "name": "Content and communication strategies in 4535 covers of Time magazine ",
+        "author": "Lev Manovich ",
+        "time": [
+            "2010"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "montage/collage",
+            "layout"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "news & media"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Content and communication strategies in 4535 covers of Time magazine .png"
+    },
+    {
+        "name": "Visual Genealogy ",
+        "author": "Jin Wan Park",
+        "time": [
+            "2007"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "layout"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "reveal",
+            "inform"
+        ],
+        "whereField": [
+            "history"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Visual Genealogy .png"
+    },
+    {
+        "name": "I'm Not There: Extending the Range of Human Senses to Benefit Wildlife Corridors ",
+        "author": "Carol LaFayette ",
+        "time": [
+            "2009"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [],
+        "designTechnique": [
+            "sound/music",
+            "imagery/icon/photo",
+            "large immersive screen",
+            "light/optics"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "glasses",
+        "datatype": [
+            "image data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "I'm Not There_ Extending the Range of Human Senses to Benefit Wildlife Corridors .png"
+    },
+    {
+        "name": "News Knitter ",
+        "author": "Ebru Kurbak ",
+        "time": [
+            "2007"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "physical meterial"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "witness"
+        ],
+        "whereField": [
+            "news & media",
+            "politics"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "knitted garments",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "Due to the dynamic nature of live data streams, the system generates patterns with unpredictable visuality.",
+        "images": "News Knitter .png"
+    },
+    {
+        "name": "Multiscale Meta-Shape Grammar Objects for: ...... a grain of sand turns the balance and ATLAS in silico ",
+        "author": "Ruth West ",
+        "time": [
+            "2007"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "installation",
+            "artifact",
+            "static image/print"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "sound/music",
+            "AR/VR/MR",
+            "large immersive screen",
+            "synchronous/responsive generation",
+            "style"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke",
+            "translate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "algorithms",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Multiscale Meta-Shape Grammar Objects for_ ...... a grain of sand turns the balance and ATLAS in silico .png"
+    },
+    {
+        "name": "Artifacts of the Presence Era ",
+        "author": "F.B. Viegas; E. Perry; E. Howe; J. Donath",
+        "time": [
+            "2004"
+        ],
+        "artPaper": [
+            "HCII",
+            "Recommended"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "metaphor/analogy",
+            "color",
+            "shape/pattern",
+            "imagery/icon/photo",
+            "GUI interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "archive"
+        ],
+        "whereField": [
+            "daily life"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "multi-modal data",
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Artifacts of the Presence Era .png"
+    },
+    {
+        "name": "Bion",
+        "author": "A. Brown, A. Fagg",
+        "time": [
+            "2006"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "color",
+            "sound/music",
+            "bionics",
+            "synchronous/responsive generation"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "orgone",
+        "computation": "",
+        "特殊材料": "audio speaker, blue lights (LED’s), and multiple sensors",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Bion.png"
+    },
+    {
+        "name": "Changing Waters",
+        "author": "Nathalie Miebach",
+        "time": [
+            "2011"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "color",
+            "shape/pattern",
+            "imagery/icon/photo",
+            "metaphor/analogy"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "translate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "dragon",
+        "computation": "",
+        "特殊材料": "rope, wood, paper, fibers",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Changing Waters.png"
+    },
+    {
+        "name": "BCCI-ICIC & FAB, 1972-91 (4th Version), ",
+        "author": "Mark Lombardi",
+        "time": [
+            "1996"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "shape/pattern",
+            "layout"
+        ],
+        "designParadigm": [
+            "Conceptual art"
+        ],
+        "whatPurpose": [
+            "not specified"
+        ],
+        "whereField": [
+            "business/finance"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "BCCI-ICIC & FAB, 1972-91 (4th Version), .png"
+    },
+    {
+        "name": "Human Genome Art by Humans with Genomes ",
+        "author": "Martin Krzywinski,Joanna Rudnick,  Aaron De La Cruz",
+        "time": [
+            "2014"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "style",
+            "personalization",
+            "participation/co-design",
+            "color",
+            "draw/sketch"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "engage"
+        ],
+        "whereField": [
+            "health & well-being",
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Human Genome Art by Humans with Genomes .png"
+    },
+    {
+        "name": "Neighbourhood Scoreboards ",
+        "author": "Andrew Vande Moere, Martin Tomitsch, Monika Hoinkis, Elmar Trefz, Silje Johansen, Allison Jones",
+        "time": [
+            "2011"
+        ],
+        "artPaper": [
+            "PacificVis"
+        ],
+        "designCategory": [
+            "static image/print"
+        ],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "draw/sketch",
+            "personalization",
+            "situated context"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "advocate"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Neighbourhood Scoreboards .png"
+    },
+    {
+        "name": "InterANTARCTICA ",
+        "author": "Caitilin de Bérigny",
+        "time": [
+            "2010"
+        ],
+        "artPaper": [
+            "PacificVis"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "tangible interface/touch",
+            "large immersive screen",
+            "imagery/icon/photo"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "InterANTARCTICA .png"
+    },
+    {
+        "name": "Reefs on the Edge ",
+        "author": "Caitilin de Bérigny",
+        "time": [
+            "2012"
+        ],
+        "artPaper": [
+            "PacificVis"
+        ],
+        "designCategory": [
+            "installation"
+        ],
+        "designTechnique": [
+            "sound/music",
+            "large immersive screen",
+            "imagery/icon/photo",
+            "tangible interface/touch",
+            "color",
+            "light/optics"
+        ],
+        "designParadigm": [
+            "trans-media artwork"
+        ],
+        "whatPurpose": [
+            "experiment",
+            "inform"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "led",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Reefs on the Edge .png"
+    },
+    {
+        "name": "Messa di Voce ",
+        "author": "Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara",
+        "time": [
+            "2003"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "performance"
+        ],
+        "designTechnique": [
+            "animation",
+            "shape/pattern",
+            "synchronous/responsive generation",
+            "body movement",
+            "voice interaction"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "translate"
+        ],
+        "whereField": [
+            "language & literature"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Messa di Voce .png"
+    },
+    {
+        "name": "Song of Our Warming Planet ",
+        "author": "Daniel Crawford",
+        "time": [
+            "2013"
+        ],
+        "artPaper": [
+            "Recommended"
+        ],
+        "designCategory": [
+            "performance"
+        ],
+        "designTechnique": [
+            "sound/music"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "inform"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "violin",
+        "datatype": [],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Song of Our Warming Planet .png"
+    },
+    {
+        "name": "Eco-visualization: Combining Art and Technology to Reduce Energy Consumption ",
+        "author": "Tiffany Grace Holmes",
+        "time": [
+            "2009"
+        ],
+        "artPaper": [
+            "Creativity & Cognition"
+        ],
+        "designCategory": [
+            "interactive interface"
+        ],
+        "designTechnique": [
+            "animation",
+            "imagery/icon/photo",
+            "metaphor/analogy",
+            "sound/music",
+            "situated context",
+            "color"
+        ],
+        "designParadigm": [
+            "public art"
+        ],
+        "whatPurpose": [
+            "reveal"
+        ],
+        "whereField": [
+            "environmental sciences & ecology"
+        ],
+        "意象": "oak tree",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "real-time data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Eco-visualization_ Combining Art and Technology to Reduce Energy Consumption .png"
     }
 ]

@@ -15,8 +15,8 @@
         "designTechnique": [
             "animation",
             "sound/music",
-            "light/optics",
-            "bionics"
+            "light",
+            "bionics-triggered interaction"
         ],
         "designParadigm": [
             "generative art",
@@ -55,10 +55,10 @@
             "installation"
         ],
         "designTechnique": [
-            "light/optics",
+            "light",
             "color",
-            "physical meterial",
-            "tangible interface/touch",
+            "material ",
+            "touch/manipulate",
             "metaphor/analogy"
         ],
         "designParadigm": [
@@ -98,7 +98,7 @@
             "color",
             "sound/music",
             "large immersive screen",
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "GUI interaction",
             "shape/pattern"
         ],
@@ -317,7 +317,7 @@
         ],
         "designTechnique": [
             "montage/collage",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -351,11 +351,11 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "sound/music",
             "shape/pattern",
             "large immersive screen",
-            "participation/co-design"
+            "co-design/user generated content"
         ],
         "designParadigm": [
             "data sonification"
@@ -536,8 +536,8 @@
         ],
         "designTechnique": [
             "AR/VR/MR",
-            "synchronous/responsive generation",
-            "gesture",
+            "synchronous/responsive designeffect",
+            "gesture interaction",
             "animation"
         ],
         "designParadigm": [],
@@ -573,7 +573,7 @@
         ],
         "designTechnique": [
             "smell",
-            "participation/co-design"
+            "co-design/user generated content"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -609,8 +609,8 @@
             "installation"
         ],
         "designTechnique": [
-            "synchronous/responsive generation",
-            "light/optics",
+            "synchronous/responsive designeffect",
+            "light",
             " style"
         ],
         "designParadigm": [],
@@ -686,7 +686,7 @@
             "algorithm/tool"
         ],
         "designTechnique": [
-            "gesture",
+            "gesture interaction",
             "animation",
             "style"
         ],
@@ -723,7 +723,7 @@
             "installation"
         ],
         "designTechnique": [
-            "light/optics",
+            "light",
             "robot",
             "plants"
         ],
@@ -837,11 +837,11 @@
         ],
         "designTechnique": [
             "AR/VR/MR",
-            "story/plot",
+            "storyline/plot",
             "animation",
             "large immersive screen",
             "sound/music",
-            "light/optics",
+            "light",
             "color"
         ],
         "designParadigm": [
@@ -988,11 +988,11 @@
         ],
         "designTechnique": [
             "GUI interaction",
-            "light/optics",
-            "imagery/icon/photo",
+            "light",
+            "imagery",
             "montage/collage",
             "plants",
-            "tangible interface/touch"
+            "touch/manipulate"
         ],
         "designParadigm": [
             "digital photograph"
@@ -1063,10 +1063,10 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "light/optics",
+            "light",
             "color",
             "animation",
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -1103,7 +1103,7 @@
             "event"
         ],
         "designTechnique": [
-            "story/plot",
+            "storyline/plot",
             "animation",
             "large immersive screen"
         ],
@@ -1179,7 +1179,7 @@
         ],
         "designTechnique": [
             "animation",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [
             "generative art"
@@ -1216,7 +1216,7 @@
         ],
         "designTechnique": [
             "typography",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1252,10 +1252,10 @@
         ],
         "designTechnique": [
             "AR/VR/MR",
-            "body movement",
-            "imagery/icon/photo",
+            "body interaction",
+            "imagery",
             "sound/music",
-            "bionics",
+            "bionics-triggered interaction",
             "style"
         ],
         "designParadigm": [],
@@ -1289,7 +1289,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "viewpoint of machine",
+            "perspective of machine",
             "montage/collage"
         ],
         "designParadigm": [],
@@ -1325,7 +1325,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "metaphor/analogy"
         ],
         "designParadigm": [
@@ -1363,7 +1363,7 @@
         "designTechnique": [
             "animation",
             "sound/music",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1398,7 +1398,7 @@
         ],
         "designTechnique": [
             "sound/music",
-            "story/plot",
+            "storyline/plot",
             "style"
         ],
         "designParadigm": [],
@@ -1431,7 +1431,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1532,8 +1532,8 @@
         ],
         "designTechnique": [
             "GUI interaction",
-            "imagery/icon/photo",
-            "story/plot"
+            "imagery",
+            "storyline/plot"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1565,8 +1565,8 @@
             "installation"
         ],
         "designTechnique": [
-            "viewpoint of machine",
-            "imagery/icon/photo",
+            "perspective of machine",
+            "imagery",
             "style"
         ],
         "designParadigm": [],
@@ -1844,10 +1844,10 @@
             "installation"
         ],
         "designTechnique": [
-            "light/optics",
-            "body movement",
-            "synchronous/responsive generation",
-            "bionics",
+            "light",
+            "body interaction",
+            "synchronous/responsive designeffect",
+            "bionics-triggered interaction",
             "style"
         ],
         "designParadigm": [
@@ -1957,7 +1957,7 @@
             "video"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "metaphor/analogy"
         ],
         "designParadigm": [],
@@ -1992,7 +1992,7 @@
         ],
         "designTechnique": [
             "sound/music",
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [
             "data sonification"
@@ -2030,7 +2030,7 @@
         "designTechnique": [
             "shape/pattern",
             "sound/music",
-            "light/optics"
+            "light"
         ],
         "designParadigm": [
             "neo-concrete art"
@@ -2137,7 +2137,7 @@
         "designTechnique": [
             "color",
             "shape/pattern",
-            "bacteria/microbiome"
+            "bacteria"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2173,7 +2173,7 @@
         "designTechnique": [
             "sound/music",
             "layout",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2278,7 +2278,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2351,7 +2351,7 @@
         "designTechnique": [
             "GUI interaction",
             "animation",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2385,7 +2385,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2417,7 +2417,7 @@
             "installation"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "metaphor/analogy"
         ],
         "designParadigm": [],
@@ -2662,10 +2662,10 @@
         ],
         "designTechnique": [
             "sound/music",
-            "light/optics",
+            "light",
             "metaphor/analogy",
-            "physical meterial",
-            "imagery/icon/photo"
+            "material ",
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2735,9 +2735,9 @@
             "video"
         ],
         "designTechnique": [
-            "situated context",
-            "physical meterial",
-            "body movement"
+            "situated environment",
+            "material ",
+            "body interaction"
         ],
         "designParadigm": [
             "data humanization"
@@ -2771,7 +2771,7 @@
             "static image/print"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "montage/collage"
         ],
         "designParadigm": [],
@@ -2805,9 +2805,9 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "animation",
-            "facial/visual interaction"
+            "facial interaction"
         ],
         "designParadigm": [
             "generative art"
@@ -2843,8 +2843,8 @@
             "static image/print"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
-            "viewpoint of machine",
+            "imagery",
+            "perspective of machine",
             "montage/collage"
         ],
         "designParadigm": [],
@@ -2878,7 +2878,7 @@
         ],
         "designTechnique": [
             "montage/collage",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3049,7 +3049,7 @@
         ],
         "designTechnique": [
             "sound/music",
-            "participation/co-design",
+            "co-design/user generated content",
             "GUI interaction"
         ],
         "designParadigm": [
@@ -3160,7 +3160,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "color"
         ],
         "designParadigm": [],
@@ -3195,7 +3195,7 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -3297,7 +3297,7 @@
             "installation"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "metaphor/analogy"
         ],
         "designParadigm": [],
@@ -3331,7 +3331,7 @@
             "algorithm/tool"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "shape/pattern"
         ],
         "designParadigm": [],
@@ -3366,7 +3366,7 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "montage/collage"
         ],
         "designParadigm": [],
@@ -3402,9 +3402,9 @@
             "static image/print"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
-            "viewpoint of machine",
-            "facial/visual interaction"
+            "imagery",
+            "perspective of machine",
+            "facial interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3474,13 +3474,13 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "viewpoint of machine",
+            "perspective of machine",
             "shape/pattern",
             "color",
             "animation",
-            "facial/visual interaction",
+            "facial interaction",
             "voice interaction",
-            "body movement"
+            "body interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3515,7 +3515,7 @@
             "static image/print"
         ],
         "designTechnique": [
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [
             "experimental media archeology"
@@ -3549,7 +3549,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "metaphor/analogy"
         ],
         "designParadigm": [],
@@ -3729,8 +3729,8 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
-            "physical meterial",
+            "imagery",
+            "material ",
             "color"
         ],
         "designParadigm": [],
@@ -3767,7 +3767,7 @@
         ],
         "designTechnique": [
             "color",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3837,9 +3837,9 @@
             "installation"
         ],
         "designTechnique": [
-            "light/optics",
-            "participation/co-design",
-            "story/plot",
+            "light",
+            "co-design/user generated content",
+            "storyline/plot",
             "color",
             "metaphor/analogy",
             "GUI interaction"
@@ -3877,8 +3877,8 @@
             "video"
         ],
         "designTechnique": [
-            "viewpoint of machine",
-            "imagery/icon/photo"
+            "perspective of machine",
+            "imagery"
         ],
         "designParadigm": [
             "generative art"
@@ -3986,8 +3986,8 @@
             "artifact"
         ],
         "designTechnique": [
-            "participation/co-design",
-            "physical meterial",
+            "co-design/user generated content",
+            "material ",
             "personalization"
         ],
         "designParadigm": [],
@@ -4025,9 +4025,9 @@
         "designTechnique": [
             "large immersive screen",
             "AR/VR/MR",
-            "story/plot",
-            "viewpoint of machine",
-            "imagery/icon/photo"
+            "storyline/plot",
+            "perspective of machine",
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4062,8 +4062,8 @@
         "designTechnique": [
             "sound/music",
             "animation",
-            "imagery/icon/photo",
-            "physical meterial",
+            "imagery",
+            "material ",
             "personalization"
         ],
         "designParadigm": [],
@@ -4098,7 +4098,7 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "story/plot",
+            "storyline/plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -4131,7 +4131,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "color",
             "metaphor/analogy"
         ],
@@ -4201,8 +4201,8 @@
             "installation"
         ],
         "designTechnique": [
-            "viewpoint of machine",
-            "imagery/icon/photo"
+            "perspective of machine",
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4271,9 +4271,9 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "metaphor/analogy",
-            "situated context"
+            "situated environment"
         ],
         "designParadigm": [
             "data physicalization"
@@ -4343,10 +4343,10 @@
             "photograph"
         ],
         "designTechnique": [
-            "body movement",
+            "body interaction",
             "color",
-            "imagery/icon/photo",
-            "facial/visual interaction"
+            "imagery",
+            "facial interaction"
         ],
         "designParadigm": [
             "digital art"
@@ -4424,7 +4424,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "situated context",
+            "situated environment",
             "plants"
         ],
         "designParadigm": [],
@@ -4462,8 +4462,8 @@
         "designTechnique": [
             "shape/pattern",
             "color",
-            "physical meterial",
-            "imagery/icon/photo"
+            "material ",
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4496,10 +4496,10 @@
         ],
         "designTechnique": [
             "sound/music",
-            "story/plot",
-            "light/optics",
-            "body movement",
-            "synchronous/responsive generation"
+            "storyline/plot",
+            "light",
+            "body interaction",
+            "synchronous/responsive designeffect"
         ],
         "designParadigm": [
             "machine learning",
@@ -4538,11 +4538,11 @@
         ],
         "designTechnique": [
             "typography",
-            "imagery/icon/photo",
-            "synchronous/responsive generation",
+            "imagery",
+            "synchronous/responsive designeffect",
             "large immersive screen",
-            "facial/visual interaction",
-            "viewpoint of machine",
+            "facial interaction",
+            "perspective of machine",
             "montage/collage"
         ],
         "designParadigm": [],
@@ -4613,7 +4613,7 @@
         "designTechnique": [
             "sound/music",
             "GUI interaction",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4646,7 +4646,7 @@
         ],
         "designTechnique": [
             "style",
-            "story/plot"
+            "storyline/plot"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4682,7 +4682,7 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "story/plot",
+            "storyline/plot",
             "sound/music",
             "GUI interaction"
         ],
@@ -4718,9 +4718,9 @@
             "installation"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
-            "story/plot",
-            "viewpoint of machine"
+            "imagery",
+            "storyline/plot",
+            "perspective of machine"
         ],
         "designParadigm": [
             "generative storytelling"
@@ -4754,11 +4754,11 @@
             "installation"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "montage/collage",
-            "viewpoint of machine",
+            "perspective of machine",
             "sound/music",
-            "facial/visual interaction"
+            "facial interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4793,8 +4793,8 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "story/plot",
-            "imagery/icon/photo",
+            "storyline/plot",
+            "imagery",
             "animation",
             "GUI interaction",
             "style"
@@ -4866,7 +4866,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "shape/pattern"
         ],
         "designParadigm": [
@@ -4936,7 +4936,7 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "gesture",
+            "gesture interaction",
             "animation"
         ],
         "designParadigm": [],
@@ -5008,7 +5008,7 @@
             "video"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "color",
             "sound/music"
         ],
@@ -5047,7 +5047,7 @@
         ],
         "designTechnique": [
             "sound/music",
-            "imagery/icon/photo",
+            "imagery",
             "animation",
             "large immersive screen",
             "metaphor/analogy"
@@ -5082,7 +5082,7 @@
             "installation"
         ],
         "designTechnique": [
-            "story/plot",
+            "storyline/plot",
             "robot"
         ],
         "designParadigm": [],
@@ -5154,8 +5154,8 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
-            "viewpoint of machine",
+            "imagery",
+            "perspective of machine",
             "GUI interaction",
             "animation"
         ],
@@ -5193,7 +5193,7 @@
         ],
         "designTechnique": [
             "typography",
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "animation",
             "voice interaction"
         ],
@@ -5230,7 +5230,7 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "story/plot",
+            "storyline/plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -5266,7 +5266,7 @@
             "static image/print"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "sound/music"
         ],
         "designParadigm": [],
@@ -5306,8 +5306,8 @@
             "metaphor/analogy",
             "color",
             "sound/music",
-            "body movement",
-            "situated context"
+            "body interaction",
+            "situated environment"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5412,7 +5412,7 @@
             "installation"
         ],
         "designTechnique": [
-            "story/plot",
+            "storyline/plot",
             "animation"
         ],
         "designParadigm": [
@@ -5448,9 +5448,9 @@
         ],
         "designTechnique": [
             "animation",
-            "imagery/icon/photo",
+            "imagery",
             "sound/music",
-            "story/plot"
+            "storyline/plot"
         ],
         "designParadigm": [
             "data sonification"
@@ -5487,8 +5487,8 @@
             "artifact"
         ],
         "designTechnique": [
-            "story/plot",
-            "physical meterial",
+            "storyline/plot",
+            "material ",
             "color",
             "metaphor/analogy"
         ],
@@ -5526,9 +5526,9 @@
         ],
         "designTechnique": [
             "AR/VR/MR",
-            "imagery/icon/photo",
-            "body movement",
-            "tangible interface/touch"
+            "imagery",
+            "body interaction",
+            "touch/manipulate"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5564,7 +5564,7 @@
         ],
         "designTechnique": [
             "color",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5634,9 +5634,9 @@
             "algorithm/tool"
         ],
         "designTechnique": [
-            "viewpoint of machine",
-            "imagery/icon/photo",
-            "facial/visual interaction"
+            "perspective of machine",
+            "imagery",
+            "facial interaction"
         ],
         "designParadigm": [
             "generative art"
@@ -5673,7 +5673,7 @@
         ],
         "designTechnique": [
             "GUI interaction",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5708,8 +5708,8 @@
         ],
         "designTechnique": [
             "color",
-            "physical meterial",
-            "tangible interface/touch"
+            "material ",
+            "touch/manipulate"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5745,7 +5745,7 @@
         ],
         "designTechnique": [
             "typography",
-            "story/plot",
+            "storyline/plot",
             "shape/pattern",
             "GUI interaction"
         ],
@@ -5815,7 +5815,7 @@
             "static image/print"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "montage/collage"
         ],
         "designParadigm": [],
@@ -5889,7 +5889,7 @@
             "static image/print"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
+            "imagery",
             "montage/collage"
         ],
         "designParadigm": [],
@@ -5924,8 +5924,8 @@
             "performance"
         ],
         "designTechnique": [
-            "synchronous/responsive generation",
-            "physical meterial",
+            "synchronous/responsive designeffect",
+            "material ",
             "sound/music"
         ],
         "designParadigm": [],
@@ -5962,7 +5962,7 @@
             "installation"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "sound/music"
         ],
         "designParadigm": [
@@ -6000,7 +6000,7 @@
             "installation"
         ],
         "designTechnique": [
-            "gesture",
+            "gesture interaction",
             "metaphor/analogy",
             "shape/pattern",
             "color"
@@ -6037,9 +6037,9 @@
             "installation"
         ],
         "designTechnique": [
-            "light/optics",
-            "synchronous/responsive generation",
-            "facial/visual interaction",
+            "light",
+            "synchronous/responsive designeffect",
+            "facial interaction",
             "metaphor/analogy"
         ],
         "designParadigm": [],
@@ -6110,8 +6110,8 @@
             "performance"
         ],
         "designTechnique": [
-            "story/plot",
-            "body movement"
+            "storyline/plot",
+            "body interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6146,11 +6146,11 @@
             "performance"
         ],
         "designTechnique": [
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "sound/music",
             "style",
-            "facial/visual interaction",
-            "participation/co-design"
+            "facial interaction",
+            "co-design/user generated content"
         ],
         "designParadigm": [
             "compter-generated art"
@@ -6188,7 +6188,7 @@
             "metaphor/analogy",
             "color",
             "shape/pattern",
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6255,8 +6255,8 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "physical meterial",
-            "imagery/icon/photo",
+            "material ",
+            "imagery",
             "color",
             "shape/pattern"
         ],
@@ -6326,10 +6326,10 @@
             "installation"
         ],
         "designTechnique": [
-            "light/optics",
+            "light",
             "sound/music",
-            "synchronous/responsive generation",
-            "participation/co-design",
+            "synchronous/responsive designeffect",
+            "co-design/user generated content",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -6403,11 +6403,11 @@
         "designTechnique": [
             "typography",
             "color",
-            "imagery/icon/photo",
+            "imagery",
             "large immersive screen",
             "style",
             "sound/music",
-            "draw/sketch"
+            "draw/sketch interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6443,8 +6443,8 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
-            "bacteria/microbiome"
+            "material ",
+            "bacteria"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6520,8 +6520,8 @@
             "static image/print"
         ],
         "designTechnique": [
-            "story/plot",
-            "physical meterial",
+            "storyline/plot",
+            "material ",
             "metaphor/analogy"
         ],
         "designParadigm": [],
@@ -6594,9 +6594,9 @@
             "installation"
         ],
         "designTechnique": [
-            "physical meterial",
-            "imagery/icon/photo",
-            "light/optics"
+            "material ",
+            "imagery",
+            "light"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6634,7 +6634,7 @@
         "designTechnique": [
             "shape/pattern",
             "layout",
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6709,7 +6709,7 @@
             "shape/pattern",
             "large immersive screen",
             "sound/music",
-            "imagery/icon/photo",
+            "imagery",
             "style"
         ],
         "designParadigm": [],
@@ -6747,7 +6747,7 @@
         "designTechnique": [
             "metaphor/analogy",
             "color",
-            "physical meterial",
+            "material ",
             "animation"
         ],
         "designParadigm": [],
@@ -6785,7 +6785,7 @@
         ],
         "designTechnique": [
             "sound/music",
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "shape/pattern",
             "animation",
             "style"
@@ -6821,8 +6821,8 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "light/optics",
-            "physical meterial",
+            "light",
+            "material ",
             "metaphor/analogy"
         ],
         "designParadigm": [],
@@ -6856,9 +6856,9 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "GUI interaction",
-            "light/optics"
+            "light"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6931,8 +6931,8 @@
             "photograph"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
-            "physical meterial"
+            "imagery",
+            "material "
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6966,7 +6966,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6999,11 +6999,11 @@
             "photograph"
         ],
         "designTechnique": [
-            "participation/co-design",
+            "co-design/user generated content",
             "smell",
             "color",
             "metaphor/analogy",
-            "imagery/icon/photo",
+            "imagery",
             "montage/collage",
             "taste"
         ],
@@ -7040,9 +7040,9 @@
             "photograph"
         ],
         "designTechnique": [
-            "viewpoint of machine",
-            "imagery/icon/photo",
-            "participation/co-design"
+            "perspective of machine",
+            "imagery",
+            "co-design/user generated content"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7117,10 +7117,10 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
-            "participation/co-design",
-            "situated context",
-            "light/optics",
+            "material ",
+            "co-design/user generated content",
+            "situated environment",
+            "light",
             "metaphor/analogy",
             "color"
         ],
@@ -7161,11 +7161,11 @@
             "artifact"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "color",
-            "participation/co-design",
+            "co-design/user generated content",
             "metaphor/analogy",
-            "light/optics"
+            "light"
         ],
         "designParadigm": [
             "Spectacle computing"
@@ -7203,7 +7203,7 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "situated context",
+            "situated environment",
             "shape/pattern",
             "layout",
             "metaphor/analogy",
@@ -7253,7 +7253,7 @@
             "shape/pattern",
             "animation",
             "color",
-            "body movement"
+            "body interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7329,7 +7329,7 @@
             "color",
             "layout",
             "style",
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [
             "Minimalism and traditional Asian art"
@@ -7508,9 +7508,9 @@
         "designCategory": [],
         "designTechnique": [
             "sound/music",
-            "imagery/icon/photo",
+            "imagery",
             "large immersive screen",
-            "light/optics"
+            "light"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7545,7 +7545,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "physical meterial"
+            "material "
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7586,7 +7586,7 @@
             "sound/music",
             "AR/VR/MR",
             "large immersive screen",
-            "synchronous/responsive generation",
+            "synchronous/responsive designeffect",
             "style"
         ],
         "designParadigm": [],
@@ -7626,7 +7626,7 @@
             "metaphor/analogy",
             "color",
             "shape/pattern",
-            "imagery/icon/photo",
+            "imagery",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -7664,8 +7664,8 @@
         "designTechnique": [
             "color",
             "sound/music",
-            "bionics",
-            "synchronous/responsive generation"
+            "bionics-triggered interaction",
+            "synchronous/responsive designeffect"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7697,10 +7697,10 @@
             "installation"
         ],
         "designTechnique": [
-            "physical meterial",
+            "material ",
             "color",
             "shape/pattern",
-            "imagery/icon/photo",
+            "imagery",
             "metaphor/analogy"
         ],
         "designParadigm": [],
@@ -7770,9 +7770,9 @@
         "designTechnique": [
             "style",
             "personalization",
-            "participation/co-design",
+            "co-design/user generated content",
             "color",
-            "draw/sketch"
+            "draw/sketch interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7805,10 +7805,10 @@
             "static image/print"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
-            "draw/sketch",
+            "imagery",
+            "draw/sketch interaction",
             "personalization",
-            "situated context"
+            "situated environment"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7841,9 +7841,9 @@
         ],
         "designTechnique": [
             "sound/music",
-            "tangible interface/touch",
+            "touch/manipulate",
             "large immersive screen",
-            "imagery/icon/photo"
+            "imagery"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7877,10 +7877,10 @@
         "designTechnique": [
             "sound/music",
             "large immersive screen",
-            "imagery/icon/photo",
-            "tangible interface/touch",
+            "imagery",
+            "touch/manipulate",
             "color",
-            "light/optics"
+            "light"
         ],
         "designParadigm": [
             "trans-media artwork"
@@ -7917,8 +7917,8 @@
         "designTechnique": [
             "animation",
             "shape/pattern",
-            "synchronous/responsive generation",
-            "body movement",
+            "synchronous/responsive designeffect",
+            "body interaction",
             "voice interaction"
         ],
         "designParadigm": [],
@@ -7984,10 +7984,10 @@
         ],
         "designTechnique": [
             "animation",
-            "imagery/icon/photo",
+            "imagery",
             "metaphor/analogy",
             "sound/music",
-            "situated context",
+            "situated environment",
             "color"
         ],
         "designParadigm": [

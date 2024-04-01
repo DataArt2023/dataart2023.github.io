@@ -15,7 +15,7 @@
             "sound/music",
             "animation",
             "light",
-            "bionics-triggered interaction"
+            "bionics-driven interaction"
         ],
         "designParadigm": [
             "generative art",
@@ -60,7 +60,7 @@
             "light",
             "metaphor/analogy",
             "touch/manipulate",
-            "material "
+            "physical material"
         ],
         "designParadigm": [
             "ambient display"
@@ -102,7 +102,7 @@
             "shape/pattern",
             "sound/music",
             "GUI interaction",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "large immersive screen"
         ],
         "designParadigm": [
@@ -201,7 +201,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "TweetProbe.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://visap.uic.edu/2013/papers/Kang_TweetProbe.pdf"
     },
     {
@@ -273,7 +273,7 @@
         "Affiliation": "",
         "Notes": "This project has been inspired by Leonardo da Vinci’s “City of Water, Design of City as an organism.” ",
         "images": "EMC (Emergent Mind of City) 2 and Qualia Landscapes.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "http://kimjeonghan.com/?ckattempt=1"
     },
     {
@@ -328,7 +328,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "montage/collage"
+            "collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -366,7 +366,7 @@
             "shape/pattern",
             "sound/music",
             "co-design/user generated content",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "large immersive screen"
         ],
         "designParadigm": [
@@ -556,7 +556,7 @@
         ],
         "designTechnique": [
             "animation",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "AR/VR/MR",
             "gesture interaction"
         ],
@@ -633,7 +633,7 @@
         "designTechnique": [
             "style",
             "light",
-            "synchronous/responsive designeffect"
+            "reactive interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -751,7 +751,7 @@
         ],
         "designTechnique": [
             "light",
-            "plants",
+            "plant",
             "robot"
         ],
         "designParadigm": [
@@ -813,7 +813,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Culturegraphy.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "http://culturegraphy.kimalbrecht.com/"
     },
     {
@@ -831,7 +831,7 @@
         ],
         "designTechnique": [
             "animation",
-            "montage/collage"
+            "collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -871,7 +871,7 @@
             "sound/music",
             "animation",
             "light",
-            "storyline/plot",
+            "story plot",
             "AR/VR/MR",
             "large immersive screen"
         ],
@@ -1028,10 +1028,10 @@
         "designTechnique": [
             "imagery",
             "light",
-            "montage/collage",
+            "collage",
             "GUI interaction",
             "touch/manipulate",
-            "plants"
+            "plant"
         ],
         "designParadigm": [
             "digital photograph"
@@ -1089,7 +1089,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Node-Ring Graph Visualization Clears Edge Congestion.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://visap.uic.edu/2014/papers/06_Etemad_NodeRing_VISAP2014.pdf"
     },
     {
@@ -1110,7 +1110,7 @@
             "animation",
             "light",
             "GUI interaction",
-            "synchronous/responsive designeffect"
+            "reactive interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1131,7 +1131,7 @@
         "Affiliation": "",
         "Notes": "Aesthetic visualization projects that incorporate users, community\nstakeholders, multiple modalities and technologies necessarily\nemphasize the way that an artistic visualization can be both an\nartifact and a process — a conceptualization of aesthetic\nvisualization that is useful for thinking about visualization in\ngeneral. ...Another social outcome of this project is the media attention\nthat it generated. This was one of our goals with this project: to\ncreate a compelling and spectacular interface to draw attention to\nand illustrate a not-so-spectacular reality of contemporary urban\nlife. ",
         "images": "Expressive Cartography and the Aesthetics of Public Visualization.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://visap.uic.edu/2014/papers/04_Davila_ExpressiveCartography_VISAP2014.pdf"
     },
     {
@@ -1149,7 +1149,7 @@
         ],
         "designTechnique": [
             "animation",
-            "storyline/plot",
+            "story plot",
             "large immersive screen"
         ],
         "designParadigm": [],
@@ -1309,7 +1309,7 @@
             "style",
             "AR/VR/MR",
             "body interaction",
-            "bionics-triggered interaction"
+            "bionics-driven interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1344,7 +1344,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "montage/collage",
+            "collage",
             "perspective of machine"
         ],
         "designParadigm": [],
@@ -1383,7 +1383,7 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [
             "digital fabrication"
@@ -1460,7 +1460,7 @@
         "designTechnique": [
             "sound/music",
             "style",
-            "storyline/plot"
+            "story plot"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1494,7 +1494,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -1600,7 +1600,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "storyline/plot",
+            "story plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -1619,7 +1619,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Climate Prisms_ The Arctic (Climate Prisms_ The Arctic - Connecting climate research and climate modeling via the language of art).png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://visap.uic.edu/2015/VISAP15-Papers/visap2015_Samsel_ClimatePrisms.pdf"
     },
     {
@@ -1731,7 +1731,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "A Stranger to Words.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "http://astrangertowords.com/"
     },
     {
@@ -1767,7 +1767,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Deep in Poetry.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "http://www.sci.utah.edu/~nmccurdy/Poemage/"
     },
     {
@@ -1837,7 +1837,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Natural Rejection.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "http://vislab.mat.ucsb. \nedu/2015/kaminski/ \np4/index.html"
     },
     {
@@ -1874,7 +1874,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "MarshVis.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://vimeo.com/132137535"
     },
     {
@@ -1932,9 +1932,9 @@
         "designTechnique": [
             "style",
             "light",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "body interaction",
-            "bionics-triggered interaction"
+            "bionics-driven interaction"
         ],
         "designParadigm": [
             "spatial narrative"
@@ -1994,7 +1994,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Urban Radiance.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://offenhuber.net/project/urban-radiance/"
     },
     {
@@ -2084,7 +2084,7 @@
         ],
         "designTechnique": [
             "sound/music",
-            "material "
+            "physical material"
         ],
         "designParadigm": [
             "data sonification"
@@ -2183,7 +2183,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "cf. city flows (Staged Analysis_ From Evocative to Comparative Visualizations of Urban Mobility).png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://uclab.fh-potsdam.de/cf/"
     },
     {
@@ -2384,7 +2384,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2481,7 +2481,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Slicing the Aurora.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": ""
     },
     {
@@ -2497,7 +2497,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2660,7 +2660,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Novel City Maps.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://uclab.fh-potsdam.de/projects/novel-city-maps/"
     },
     {
@@ -2791,7 +2791,7 @@
             "sound/music",
             "light",
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2848,7 +2848,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Treepedia.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://senseable.mit.edu/treepedia"
     },
     {
@@ -2866,7 +2866,7 @@
         ],
         "designTechnique": [
             "body interaction",
-            "material ",
+            "physical material",
             "situated environment"
         ],
         "designParadigm": [
@@ -2904,7 +2904,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "montage/collage"
+            "collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2940,7 +2940,7 @@
         "designTechnique": [
             "animation",
             "metaphor/analogy",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "facial interaction"
         ],
         "designParadigm": [
@@ -2980,7 +2980,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "montage/collage",
+            "collage",
             "perspective of machine"
         ],
         "designParadigm": [],
@@ -3016,7 +3016,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "montage/collage"
+            "collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3143,7 +3143,7 @@
         "Affiliation": "",
         "Notes": "As Human-Computer Interaction designers, we wanted to utilize technology to make this ‘hidden’ art accessible to the general public and enable new ways of interacting with it.",
         "images": "Exploring Hidden Dimensions of the Rijksmuseum(Vijks_ Hidden Dimensions).png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": ""
     },
     {
@@ -3312,7 +3312,7 @@
         ],
         "designTechnique": [
             "color",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3369,7 +3369,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Understanding People’s Interaction with Neural Sci-Art.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://ieeexplore.ieee.org/document/8282366/"
     },
     {
@@ -3457,7 +3457,7 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3493,7 +3493,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3530,7 +3530,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "montage/collage"
+            "collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3722,7 +3722,7 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3854,7 +3854,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Designing Beautiful Evidence in an Era of Complexity. When Graphics reveal Global Social Changes and Issues.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://visap.net/2018/media/Bihanic-VISAP18-AP.pdf"
     },
     {
@@ -3891,7 +3891,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Cycles and (A)symmetry _ Exploring the Design of Shareable Personal Visualizations.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://visap.net/2018/media/Perin-VISAP18-AP.pdf"
     },
     {
@@ -3912,7 +3912,7 @@
         "designTechnique": [
             "color",
             "imagery",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4008,7 +4008,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Shifted Maps_ Revealing spatio-temporal topologies in movement data.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://ieeexplore.ieee.org/document/9046054/"
     },
     {
@@ -4027,7 +4027,7 @@
             "color",
             "light",
             "metaphor/analogy",
-            "storyline/plot",
+            "story plot",
             "co-design/user generated content",
             "GUI interaction"
         ],
@@ -4183,7 +4183,7 @@
             "co-design/user generated content",
             "personalization",
             "GUI interaction",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4221,7 +4221,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "storyline/plot",
+            "story plot",
             "perspective of machine",
             "AR/VR/MR",
             "large immersive screen"
@@ -4263,7 +4263,7 @@
             "sound/music",
             "animation",
             "personalization",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4299,7 +4299,7 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "storyline/plot",
+            "story plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -4318,7 +4318,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Cartographers of North Korea.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://wonyoung.so/cartographers-nk"
     },
     {
@@ -4336,7 +4336,7 @@
         "designTechnique": [
             "color",
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [
             "data physicalization"
@@ -4465,7 +4465,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Fog of Finance_ Visualising Offshore and the Aesthetics of Uncertainty.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://publicdatalab.org/projects/fog-of-finance/"
     },
     {
@@ -4483,7 +4483,7 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "material ",
+            "physical material",
             "situated environment"
         ],
         "designParadigm": [
@@ -4624,7 +4624,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Mapping The Prelude_ A Visualisation of Wordsworth's Poetry.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://vimeo.com/360050681"
     },
     {
@@ -4644,7 +4644,7 @@
         "designTechnique": [
             "shape/pattern",
             "situated environment",
-            "plants"
+            "plant"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4684,7 +4684,7 @@
             "color",
             "shape/pattern",
             "imagery",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4720,8 +4720,8 @@
         "designTechnique": [
             "sound/music",
             "light",
-            "storyline/plot",
-            "synchronous/responsive designeffect",
+            "story plot",
+            "reactive interaction",
             "body interaction"
         ],
         "designParadigm": [
@@ -4764,9 +4764,9 @@
         "designTechnique": [
             "imagery",
             "typography",
-            "montage/collage",
+            "collage",
             "perspective of machine",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "facial interaction",
             "large immersive screen"
         ],
@@ -4824,7 +4824,7 @@
         "Affiliation": "",
         "Notes": "the piece blurs the\n lines between sculpture and performance, object and action. \n \n \n ",
         "images": "Climate Continuum.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "http://youtu.be/Bjp81-Ya3b0"
     },
     {
@@ -4877,7 +4877,7 @@
         ],
         "designTechnique": [
             "style",
-            "storyline/plot"
+            "story plot"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4915,7 +4915,7 @@
         "designTechnique": [
             "sound/music",
             "metaphor/analogy",
-            "storyline/plot",
+            "story plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -4936,7 +4936,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "The Academia is Tied in Knots.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://tiedinknots.io/#/"
     },
     {
@@ -4953,7 +4953,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "storyline/plot",
+            "story plot",
             "perspective of machine"
         ],
         "designParadigm": [
@@ -4992,7 +4992,7 @@
         "designTechnique": [
             "imagery",
             "sound/music",
-            "montage/collage",
+            "collage",
             "perspective of machine",
             "facial interaction"
         ],
@@ -5034,7 +5034,7 @@
             "imagery",
             "animation",
             "style",
-            "storyline/plot",
+            "story plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -5056,7 +5056,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Unfinished Farewell.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://www.jiabaoli.org/covid19"
     },
     {
@@ -5109,7 +5109,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "material "
+            "physical material"
         ],
         "designParadigm": [
             "algorithmic art",
@@ -5335,7 +5335,7 @@
             "installation"
         ],
         "designTechnique": [
-            "storyline/plot",
+            "story plot",
             "robot"
         ],
         "designParadigm": [],
@@ -5434,7 +5434,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Invisible Pixel_ Short Video Narratives from a Machine Perspective.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://ieeexplore.ieee.org/document/9623048/"
     },
     {
@@ -5452,7 +5452,7 @@
         "designTechnique": [
             "animation",
             "typography",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "voice interaction"
         ],
         "designParadigm": [],
@@ -5489,7 +5489,7 @@
             "interactive interface"
         ],
         "designTechnique": [
-            "storyline/plot",
+            "story plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -5511,7 +5511,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Decoding and Encoding of Tibetan.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://ieeexplore.ieee.org/document/9622780/"
     },
     {
@@ -5681,7 +5681,7 @@
         ],
         "designTechnique": [
             "animation",
-            "storyline/plot"
+            "story plot"
         ],
         "designParadigm": [
             "generative art"
@@ -5720,7 +5720,7 @@
             "imagery",
             "sound/music",
             "animation",
-            "storyline/plot"
+            "story plot"
         ],
         "designParadigm": [
             "data sonification"
@@ -5761,8 +5761,8 @@
         "designTechnique": [
             "color",
             "metaphor/analogy",
-            "storyline/plot",
-            "material "
+            "story plot",
+            "physical material"
         ],
         "designParadigm": [
             "data manifestation"
@@ -5975,7 +5975,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Explore Mindfulness without Deflection_ A Data Art Based on the Books of Songs (Pictorial).png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://ieeexplore.ieee.org/document/9623013/"
     },
     {
@@ -5993,7 +5993,7 @@
         "designTechnique": [
             "color",
             "touch/manipulate",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6031,7 +6031,7 @@
         "designTechnique": [
             "shape/pattern",
             "typography",
-            "storyline/plot",
+            "story plot",
             "GUI interaction"
         ],
         "designParadigm": [],
@@ -6052,7 +6052,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "MeToo Anti-Network.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://ieeexplore.ieee.org/document/9975621/"
     },
     {
@@ -6088,7 +6088,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Diversity traces_ an interactive lens on multi-racial families in America.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://traces.pmcruz.com/"
     },
     {
@@ -6105,7 +6105,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "montage/collage"
+            "collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6144,7 +6144,7 @@
         "designTechnique": [
             "sound/music",
             "animation",
-            "plants"
+            "plant"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6182,7 +6182,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "montage/collage"
+            "collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6219,8 +6219,8 @@
         ],
         "designTechnique": [
             "sound/music",
-            "synchronous/responsive designeffect",
-            "material "
+            "reactive interaction",
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6259,7 +6259,7 @@
         ],
         "designTechnique": [
             "sound/music",
-            "material "
+            "physical material"
         ],
         "designParadigm": [
             "wearable art"
@@ -6339,7 +6339,7 @@
         "designTechnique": [
             "light",
             "metaphor/analogy",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "facial interaction"
         ],
         "designParadigm": [],
@@ -6397,7 +6397,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Under the Green_ Visual data storytelling the process of urban CO2 neutralization by forests.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": ""
     },
     {
@@ -6413,7 +6413,7 @@
             "performance"
         ],
         "designTechnique": [
-            "storyline/plot",
+            "story plot",
             "body interaction"
         ],
         "designParadigm": [],
@@ -6453,7 +6453,7 @@
             "sound/music",
             "style",
             "co-design/user generated content",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "facial interaction"
         ],
         "designParadigm": [
@@ -6494,7 +6494,7 @@
             "color",
             "shape/pattern",
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6568,7 +6568,7 @@
             "color",
             "shape/pattern",
             "imagery",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6644,7 +6644,7 @@
             "light",
             "co-design/user generated content",
             "GUI interaction",
-            "synchronous/responsive designeffect"
+            "reactive interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6703,7 +6703,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "Shifting Winds_ Gendered Structures Of Academic Mentorship.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://ieeexplore.ieee.org/document/9975443/"
     },
     {
@@ -6763,7 +6763,7 @@
             "artifact"
         ],
         "designTechnique": [
-            "material ",
+            "physical material",
             "bacteria"
         ],
         "designParadigm": [],
@@ -6844,8 +6844,8 @@
         ],
         "designTechnique": [
             "metaphor/analogy",
-            "storyline/plot",
-            "material "
+            "story plot",
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6923,7 +6923,7 @@
         "designTechnique": [
             "imagery",
             "light",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6963,7 +6963,7 @@
         "designTechnique": [
             "shape/pattern",
             "layout",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7081,7 +7081,7 @@
             "color",
             "animation",
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7123,7 +7123,7 @@
             "sound/music",
             "animation",
             "style",
-            "synchronous/responsive designeffect"
+            "reactive interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7160,7 +7160,7 @@
         "designTechnique": [
             "light",
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7197,7 +7197,7 @@
             "light",
             "metaphor/analogy",
             "GUI interaction",
-            "synchronous/responsive designeffect"
+            "reactive interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7257,7 +7257,7 @@
         "Affiliation": "",
         "Notes": "",
         "images": "The Vast Territory.png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://visap.net/2023/contributions/the-vast-territory.baltazarperez.com"
     },
     {
@@ -7275,7 +7275,7 @@
         ],
         "designTechnique": [
             "imagery",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7310,7 +7310,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7350,7 +7350,7 @@
             "smell",
             "taste",
             "metaphor/analogy",
-            "montage/collage",
+            "collage",
             "co-design/user generated content"
         ],
         "designParadigm": [],
@@ -7452,7 +7452,7 @@
         "Affiliation": "",
         "Notes": "【好】The tablet visualization is intended to be easily glanceable, so it resides in a common space in the home, such as the living room or the kitchen. The abstract nature of the display masks any personal information that users may not want to share in a public space. ",
         "images": "A Spark Of Activity_ Exploring Informative Art As _Visualization For Physical Activity .png",
-        "cluster": "Telling interactive stories",
+        "cluster": "Building an interactive tour",
         "Link": "https://dl.acm.org/doi/10.1145/2370216.2370229"
     },
     {
@@ -7473,7 +7473,7 @@
             "light",
             "metaphor/analogy",
             "co-design/user generated content",
-            "material ",
+            "physical material",
             "situated environment"
         ],
         "designParadigm": [
@@ -7519,7 +7519,7 @@
             "light",
             "metaphor/analogy",
             "co-design/user generated content",
-            "material "
+            "physical material"
         ],
         "designParadigm": [
             "Spectacle computing"
@@ -7691,7 +7691,7 @@
             "shape/pattern",
             "style",
             "layout",
-            "material "
+            "physical material"
         ],
         "designParadigm": [
             "Minimalism and traditional Asian art"
@@ -7809,7 +7809,7 @@
         ],
         "designTechnique": [
             "layout",
-            "montage/collage"
+            "collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7919,7 +7919,7 @@
         ],
         "designTechnique": [
             "shape/pattern",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -7961,7 +7961,7 @@
             "shape/pattern",
             "sound/music",
             "style",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "AR/VR/MR",
             "large immersive screen"
         ],
@@ -8043,8 +8043,8 @@
         "designTechnique": [
             "color",
             "sound/music",
-            "synchronous/responsive designeffect",
-            "bionics-triggered interaction"
+            "reactive interaction",
+            "bionics-driven interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -8082,7 +8082,7 @@
             "shape/pattern",
             "imagery",
             "metaphor/analogy",
-            "material "
+            "physical material"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -8310,7 +8310,7 @@
         "designTechnique": [
             "shape/pattern",
             "animation",
-            "synchronous/responsive designeffect",
+            "reactive interaction",
             "body interaction",
             "voice interaction"
         ],

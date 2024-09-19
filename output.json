@@ -249,7 +249,7 @@
         "designTechnique": [
             "Shape/pattern",
             "Sound/music",
-            "Physiological/neuro interaction",
+            "Physiological interaction",
             "Co-design/user generated content",
             "Large immersive screen"
         ],
@@ -6291,7 +6291,7 @@
         ],
         "designTechnique": [
             "Sound/music",
-            "Physiological/neuro interaction",
+            "Physiological interaction",
             "Physical material (e.g.. yarn,metal)"
         ],
         "designParadigm": [],
